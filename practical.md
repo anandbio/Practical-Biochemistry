@@ -100,7 +100,7 @@ Higher concentration (≥ 5%) gives positive result for disaccharides with Barfo
 
 Seliwanoff’s test is a timed color reaction specific for ketohexoses. It is used to distinguish ketoses from aldoses.
 
-**Principle:**The reagent consists of resorcinol and conc HCl. The acid hydrolyses of polysaccharides and oligosaccharides yields simpler sugars. Ketohexoses undergo dehydration to yield 5-hydroxymethyl furfural more rapidly than aldohexoses. The dehydrated ketose reacts with resorcinol to produce a deep cheery red color complex (not precipitate). Aldoses may react slightly to produce a faint pink to cherry red color.
+**Principle:** The reagent consists of resorcinol and conc HCl. The acid hydrolyses of polysaccharides and oligosaccharides yields simpler sugars. Ketohexoses undergo dehydration to yield 5-hydroxymethyl furfural more rapidly than aldohexoses. The dehydrated ketose reacts with resorcinol to produce a deep cheery red color complex (not precipitate). Aldoses may react slightly to produce a faint pink to cherry red color.
 
 ![selwinoff reaction](selwinoff.png)
 
