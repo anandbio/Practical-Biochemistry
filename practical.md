@@ -779,27 +779,27 @@ Note: Kjeldahl method is not applicable to compounds containing nitrogen in nitr
 ## Alkaline Phosphatase assay
 
 **Principle:** The estimation of alkaline phosphatase or orthophosphoric monoester phosphohydrolase (EC 3.1.3.1) level of blood serum is of clinical importance. This enzyme levels are elevated in bone, liver, kidney and other tissues in diseased condition. Alkaline phosphate has a role in transport of phosphate groups across the cell membrane. The pH optimum for serum alkaline phosphatase is between pH 8 and 10. The alkaline phosphatase activity is measured by incubating serum, the enzyme source, with the substrate, pnitrophenyl phosphate dissolved in an alkaline buffer at a specific temperature for a certain time. The alkaline phosphatase hydrolyses p-nitrophenyl phosphate to release yellow colored p-nitrophenol with λmax at 405 nm, the concentration of which is determined by plotting a standard curve for p-nitrophenol (0-50 µg/ml). The enzyme activity units are expressed as micromoles of p-nitrophenol released per milliliter per minute at specific assay conditions.
-![alp]()
+![alp](alp.png)
 
 **Materials:** (i) Enzyme source: collect 5 ml blood in a centrifuge tube and allow it to clot. Centrifuge the sample at 10,000 rpm for 10 min at 4°C to collect the serum (ii) Inactivated enzyme (negative control): autoclaved serum (iii) Assay buffer: 0.1 M bicarbonate buffer of pH 10 (iv) Substrate: 1 mM solution of p-nitrophenyl phosphate in bicarbonate buffer of pH 10.
 
 **Procedure:**
 
 1. Setup the enzyme assay as indicated in the observation table.
-![]()
+![alp](alp2.png)
 2. Measure the micromoles of p-nitrophenol released at 410 nm in a spectrophotometer. Calculate the enzyme activity in terms of the number of micromoles of p-nitrophenol released per milliliter of the reaction mixture per minute under defined assay conditions using following formula:
-![]()
+![alp](alp3.png)
 
 
 ## Acid phosphatase assay
 
 **Principle:** Acid phosphatases or orthophosphoric monoester phosphohydrolase (EC 3.1.3.2) hydrolyses aliphatic, aromatic or heterocyclic phosphoric acid. The pH optimum for alkaline phosphatses is between pH 4 and 6. RBC, platelets, WBC and prostrate cells secrete this class of non-specific enzymes. The acid phosphatase activity is measured by incubating the enzyme source, potato, with substrate, p-nitrophenyl phosphate dissolved in an acid buffer at a specific temperature for a certain time. The acid phosphatase hydrolyzes p-nitrophenyl phosphate to release colorless p-nitrophenol. The enzyme is inactivated and thus the reaction stopped by addition of alkali to the reaction mixture. At alkaline pH the released p-nitrophenol turns yellow in color (λmax 405 nm), the concentration of which is determined by plotting a standard curve for p-nitrophenol (0-50 µg/ml). The enzyme activity units are expressed as micromoles of p-nitrophenol released per milliliter per minute at specific assay conditions.
-![]()
+![acp](acp.png)
 
 **Materials:** (i) Enzyme source: Homogenize 20 g peeled and finely cut potato (Solanum tuberosum) in a blender with 80 ml cold water for 5 min. Centrifuge the homogenate at 5000 rpm for 15 min (preferably cold). Transfer clear supernatant to a fresh tube (ii) Inactivated enzyme (negative control): autoclave 1 ml of enzyme extract (iii) Assay buffer: citrate buffer 100 mM, pH 4.8 (iv) Substrate: 15 mM p-nitrophenyl phosphate dissolved in citrate buffer. 0.2 N sodium hydroxide. Procedure: Setup the enzyme assay as indicated in the observation table.
-![]()
+![acp](acp2.png)
 Use the following equation to calculate the enzyme activity in U/ml.
-![]()
+![acp](acp3.png)
 
 **Note:**
 1. The various factors included in the equation include total assay volume (5 ml), time of assay (10 min), volume of enzyme extract (0.1 ml), millimolar extinction coefficient of p-nitrophenol at 410 nm (18.3) and dilution factor (10).
@@ -815,16 +815,16 @@ Use the following equation to calculate the enzyme activity in U/ml.
 **Procedure:** 
 
 Prepare a standard graph of maltose as follows:
-![]()
+![amy](amylase.png)
 Setup the enzyme assay as indicated in the observation table.
-![]()
+![amy](amylase2.png)
 Amylase activity is expressed in terms of mg maltose liberated in 3 min at 37°C by 1 ml of enzyme extract. Specific activity of the enzyme is expressed as amylase activity/mg of protein.
 
 
 ## Urease assay
 
 **Principle:** Urease or urea amidohydrolase (EC 3.5.1.5) is an important enzyme in protein metabolism, that catalyses the degradation of urea into ammonia and carbon dioxide.
-![]()
+![ure](urease.png)
 The amount of ammonia formed is directly proportional to the amount of urease present in the assay. Therefore, the activity of urease can be determined by measuring the amount of ammonia liberated in the reaction. The reagent used for estimating ammonia contains hypochlorite, phenol and nitroprusside, which under alkaline conditions react with ammonium ions to forma blue colored indophenol anion (λmax 630 nm) by Berthelot reaction. Sodium nitroprusside acts as a catalyst for reaction. 
 
 **Materials:**
@@ -833,9 +833,9 @@ The amount of ammonia formed is directly proportional to the amount of urease pr
 **Procedure:** 
 
 1. Prepare a standard graph of maltose as follows:
-![]()
+![ure](urease2.png)
 2. Setup the enzyme assay as indicated in the table below.
-![]()
+![ure](urease3.png)
 Construct a standard curve for ammonia (X-axis: ammonia concentration in µmoles, Yaxis: absorbance at 630 nm). Calculate the ammonia liberated by the enzyme reaction from the calibration plot after deducting the blank value from the test. Urease enzyme unit is denoted by µmoles of ammonia released per minute per ml of enzyme extract under defined conditions.
 
 
@@ -879,7 +879,7 @@ cm-1 . using a spectrophotometer. Molar absorption coefficient values of a biomo
 **Reagents:** 0.5 mM L-tyrosine in 0.1 N NaOH. Procedure: Set the UV-Vis spectrophotometer in absorbance mode and set the absorbance at wavelength 293.5 nm to zero using the blank (0.1 NaOH). Record the absorbance of the tyrosine solution at 293.5 nm. 
 
 **Calculation:** Calculate the molar absorption coefficient of L-tyrosine by substituting the experimental value of absorbance in the following equation-
-![]()
+![mol](molar.png)
 (Recorded at λ293.5 nm)/ (5 X 10-4 M) (1 cm)
 
 
@@ -887,7 +887,7 @@ cm-1 . using a spectrophotometer. Molar absorption coefficient values of a biomo
 Ammonium sulfate precipitation method is widely used for purification of protein from a crude extract.
 
 **Principle:** Ammonium sulfate is an iorganic salt that is used to precipitate proteins from solution, a process that is called salting out. Solubility of a protein depends on the proportion and distribution of polar hydrophilic groups and nonpolar hydrophobic groups in the molecule. The polar water molecules interact with the polar groups of proteins tending to increase solubility. The added ammonium sulfate reduceds the effective concentration of water available for the protein thereby leading to increased proteinprotein interactions followed by aggregation or precipitation of the protein. Generally, an inverse relationship is observed between amount of salt required for precipitation and the molecular weight of the protein. Proteins, which hold on to water at higher concentrations of salt, can be separated from one, which are precipated under the same condition.
-![]()
+![amm](salting.png)
 
 **Reagents:** (i) Saturated ammonium sulfate solution (ii) Solid ammonium sulfate (iii) Hen egg.
 
@@ -895,7 +895,8 @@ Ammonium sulfate precipitation method is widely used for purification of protein
 
 1. Collect the egg white portion of an egg in a 100 ml beaker. Add equal volume of distilled water.
 2. In a 15 ml centrifuge tube 2 ml of the dilute egg white solution and add equal volume of saturated ammonium sulfate solution. Mix gently (avoid frothing).
-3. Centrifuge at 2500-3000 rpm for 10 min. Decant the supernatant into a fresh tube. 4. Add solid ammonium sulfate to saturate the solution. Mix gently. 
+3. Centrifuge at 2500-3000 rpm for 10 min. Decant the supernatant into a fresh tube. 
+4. Add solid ammonium sulfate to saturate the solution. Mix gently. 
 
 **Note:** The precipitate observed at 50 and 100% saturation of ammonium sulfate is that of globulins and albumins, respectively.
 
@@ -905,7 +906,7 @@ The net movement of molecules from a region of high concentration to a lower con
 
 **Principle:** The pore size of the dialysis membrane restricts large molecules to 
 freely diffuse across the membrane. The small molecules freely diffuse across the membrane till equilibrium is reached between the sample (inside the dialysis tube) and buffer solution. Dialysis is often used in the laboratory for desalting protein samples. During dialysis small molecules equilibrate across the semi-permeable membrane (freely move in both direction, in and out across the membrane); hence dialysis in certain cases is used to introduce small molecules to the sample.
-![]()
+![dia](dialysis.png)
 
 **Materials:** (i) 10 mg/ml BSA and 50 mg/ml ammonium sulfate (ii) 5% w/v barium chloride solution (iii) Dialysis tubing (molecular weight cut off 12 kDa) (iv) Plastic clamps (v) Magnetic stirrer and magnetic beads. 
 
@@ -924,7 +925,7 @@ freely diffuse across the membrane. The small molecules freely diffuse across th
 Paper chromatography is particularly useful in separating mixture of compounds having similar polarity.
 
 **Principle:** Paper chromatography is widely used technique for isolation, identification and quantitative determination of biomoleules such as sugars, amino acids and nucleic acids in a sample. It is a type of partition chromatography. The analytes are distributed between two phases, a stationary phase (usually water held in the fibers of paper) and the mobile phase (developing solvent or moving liquid). The analytes are separated due to differential affinity towards the mobile and stationary phase. Usually the analyte with higher solubility in the mobile phase solvent will migrate rapidly than the less soluble components.
-![]()
+![pap](paper.png)
 The results of a developed paper chromatogram are represented by Rf value of the value (abbreviation for retention factor, retardation factor, retardation force or relative front) depends on various conditions such as temperature, distance travelled by the solvent/analytes, concentration of the analytes, mobile phase solvent composition, quality of the paper and others. The Rf values of adjacent spots of analytes in a paper chromatogram should differ by a minimum of 0.05. 
 
 **Materials:** (i) Chromatographic chamber (ii) Whatmann No.1 paper (iii) 10 µl Capillary tubes (iv)Hot air dryer (v) atomizer (vi) gloves (v) Developing solvent- n-butanol: acetic acid: water (3:1:1). Mix 60 ml butanol, 20 ml and 20 ml water (vi) Spray reagent- Add 1 ml acetic acid to 200 mg of ninhydrin in 99 ml of acetone (vii) Standard amino acids- 2 mg/ml solution each of glycine, alanine and proline. 
@@ -949,7 +950,8 @@ The results of a developed paper chromatogram are represented by Rf value of the
 1. Draw a pencil line at least 5 cm away from the narrow end (this is the origin line) of Whatmann No. 1 filter paper (cut according to size of your chromatography chamber, which could be a glass beaker). Label the spots where samples will be loaded. Load the standard and unknown sugar samples with the help of a capillary tube (10 µl), such that the diameter of the sample spot does not exceed 3-4 mm. Dry the spots using a hair dryer.
 2. Place the spotted paper in a chromatographic chamber containing the developing solvent (if the size of the chromatography chamber is big, you need to pre-saturate the chamber with the developing solvent). The origin line should be 2 cm above the solvent level.
 3. When the solvent front is about to approach the top end, remove the chromatogram from the chamber and immediately mark the solvent front using a pencil. Air-dry the chromatogram at room temperature.
-4. Dip the chromatogram in aniline hydrogen phthalate reagent and incubate for 10 min at 110°C in an oven. Hexose sugars appear as brown colored spots while pentose sugars form pink spots. Disaccharides react slowly as compared to monosaccharide’s with spray reagent. Outline the spots with a pencil. Measure the distance in centimeters from the origin to the center of the outlined spot and calculate the Rf value for the amino = distance moved by the amino acid (cm) / distance moved by the mobile phase (cm) 5. Compare the Rf values of unknown with that of the standard amino acids to identify the acids. Rf unknown amino acid.
+4. Dip the chromatogram in aniline hydrogen phthalate reagent and incubate for 10 min at 110°C in an oven. Hexose sugars appear as brown colored spots while pentose sugars form pink spots. Disaccharides react slowly as compared to monosaccharide’s with spray reagent. Outline the spots with a pencil. Measure the distance in centimeters from the origin to the center of the outlined spot and calculate the Rf value for the amino = distance moved by the amino acid (cm) / distance moved by the mobile phase (cm). 
+5. Compare the Rf values of unknown with that of the standard amino acids to identify the acids. Rf unknown amino acid.
 
 
 #### Paper Chromatography of purines and pyrimidines
@@ -974,7 +976,7 @@ Determination of the N-terminal amino acid by Sanger’s method is used to arran
 3. Extraction of the N-terminal DNP-amino acid with peroxide-free ether. 
 (Note: This is critical step since FDNB also reacts with ε-amino, thiol, imidazole and phenolic groups at neutral and acidic pH to yield other DNP-derivatives (DNP-arginine, O-DNP-tyrosine, ε-DNP-lysine, and imidazole-DNP-histidine). These derivatives are more polar and are partitioned to the aqueous phase, whereas N-terminal DNP-amino acid is extracted into the ether phase.)
 4. Identification of N-terminal DNP-amino acid by chromatography and comparison with reference standards.
-![]()
+![sang](sanger.png)
 
 **Materials:** (i) Hot air oven (ii) Shaker (iii) Water bath (iv) Centrifuge (v) Pre-coated silica gel G (vi) Glass hydrolysis vial (vii) TLC developing tank with lid (viii) FDNB (5% w/v) in ethanol, sodium bicarbonate solution (0.4% w/v) (ix) Solvent system- benzyl alcohol: ethanol (9:1) (x) Peroxide free ether (xi) Sodium bicarbonate (xii) Conc. HCl and 6 M HCl (xiii) acetone (xiv) Pure protein, whose N-terminal amino acid is to be detected (xv) standard DNP derivative of various amino acids (xvi) 5% solution of 1-fluoro-2,4dinitrobenzene (FDNB) in alcohol. 
 
@@ -994,7 +996,7 @@ Determination of the N-terminal amino acid by Sanger’s method is used to arran
 A carboxypeptidase (EC number 3.4.16-18) is an exopeptidase that hydrolyzes the Cterminal peptide bond, resulting in the removal of L-amino acid, one residue at a time, from the C-terminal of the polypeptide chain.
 
 **Principle:** Carboxypeptidase A sequentially removes C-terminal acidic or neutral amino acids whereas carboxypeptidase B have a strong preference for positively charged amino acids (arginine and lysine). Neither peptidase functions if proline is the penultimate or Cterminal amino acid. Tripeptides and dipeptides may be resistant to hydrolysis. Carboxypeptidase Y is the enzyme of choice nowadays because it has broad specificity and ability to work in the presence of detergents and urea. In this enzyme-based detection method, the protein sample is incubated with carboxypeptidase A and aliquots removed form the reaction mixture at timed intervals and released free amino acids analyzed using paper chromatography. The released amino acids are visualized by using ninhydrin reagent. The released amino acids may be identified by comparing their Rf values with those of reference standards.
-![]()
+![car](carboxy.png)
 
 **Materials:** (i) Carboxypeptidase A (ii) Water bath (iii) Whatmann No. 1 paper (iv) 10% trichloroacetic acid (TCA) (v) Chromatographic chamber (vi) 10 µl capillary tubes (v) Hot air dryer (vi) atomizer (vii) gloves (viii) Developing solvent- n-butanol: acetic acid: water (3:1:1). Mix 60 ml butanol, 20 ml and 20 ml water (ix) Spray reagent- Add 1 ml acetic acid to 200 mg of ninhydrin in 99 ml of acetone (x) Standard amino acids- 2 mg/ml solution. 
 
@@ -1011,8 +1013,7 @@ A carboxypeptidase (EC number 3.4.16-18) is an exopeptidase that hydrolyzes the 
 TLC offers better resolution and speed than paper chromatography.
 
 **Principle:** Thin layer chromatography (TLC) was originally developed to resolve lipids. It is widely used today for both analytical and preparative (small amount) analysis of a variety of compounds. This technique is easy to perform, inexpensive, has good speed of separation and fine sensitivity. The principle of separation of the mixture of analytes by TLC depends on their differential solubility in the stationary (liquid bound to the solid matrix) and mobile (developer solvent) phases. Silica gel and alumina are commonly used stationary phase, which are coated as a uniform layer (0.25 - 0.5 mm thick) onto glass, aluminium or plastic plates. The results of a developed TLC are represented by Rf
-value of
-the analytes, which indicates the relative movement of the analyte to that of the solvent front. The Rf value for an analyte is constant for a given set of experimental conditions.
+value of the analytes, which indicates the relative movement of the analyte to that of the solvent front. The Rf value for an analyte is constant for a given set of experimental conditions.
 Also the resolved components may also be isolated from the plate by scratching the spot and eluting the components from the powder obtained. Specific reagents may be sprayed on the developed chromatogram so as to produce color spots to help in their detection. Ninhydrin is a suitable locating reagent for amino acids. In this experiment, individual amino acids are also run as reference standards. 
 
 **Materials:** (i) TLC plates (commercially available) (ii) Atomizer (iii) Locating reagent0.3% ninhydrin in butanol (iv) Developing solvent- butanol: glacial acetic acid: water in 12:3:5 ratio. 
@@ -1044,7 +1045,7 @@ Also the resolved components may also be isolated from the plate by scratching t
 6. The different color pigments can be observed separating from each other as the solvent moves up the TLC plate. Run the chromatogram until the solvent front reaches one centimeter from the top edge of the plate.
 7. Remove the TLC plate from the chamber and immediately mark the solvent front using a pencil. Quickly measure the pigment distances.
 The reference Rf values of various plant pigments are indicated in the table.
-![]()
+![pig](pigments.png)
 
 **Note:** Some pigments particularly β-carotene fade due to bleaching in the presence of light.
 
@@ -1062,7 +1063,7 @@ Ion exchange chromatography is used to separate polar and ionic molecules based 
 3. Filter the resin using a glass funnel plugged with glass wool and collect the filtrate in a 150 ml conical flask. Rinse the beaker twice and the resin once with 5 ml each of distilled water and collect the filtrate in the conical flask.
 4. Add 2-3 drops of phenolphthalein indicator to the filtrate in the conical flask and titrate the contents against standardized 0.1 N NaOH (in a glass burette) until a pale pink color appears. Note the volume of NaOH consumed. Perform a titration with 20 ml of 1 M sodium chloride solution and note the blank titer value.
 Calculations: The exchange capacity of resin is expressed in terms of milliequivlents (mEq) per gram of resin. Actual titter value (X) = titer value of resin (ml) – blank titer value (ml)
-![]()
+![ion](exchange.png)
 One ml of 0.1 NaOH is equivalent to 4 mg by weight. One milliequivalent (mEq) of NaOH = 40 mg. 
 
 **Note:** 1. Chemically Dowex resin is sulfonated polystyrene cross-linked with divinyl benzene. 2. Dowex-50 is commercially available as H+ or Na+ form. The later form cannot be directly employed for exchange capacity determination. It has to be converted to the H+ form.
@@ -1072,7 +1073,7 @@ One ml of 0.1 NaOH is equivalent to 4 mg by weight. One milliequivalent (mEq) of
 Gel-filtration chromatography is used to resolve analytes by their molecular size.
 
 **Principle:** Gel-filtration chromatography (also called molecular-sieve chromatography) is a versatile and popular technique. It is a type of size-exclusion chromatography, where an aqueous solution is used to transport analytes through the column, resolving them by their physical property of molecular size. It is widely used in fractionation of proteins and other water-soluble polymers. The column is packed with inert particles (which form gel beads) of uniform pore size and acts as the stationary phase. A solution of the analytes of various molecular sizes is allowed to pass through the column under the influence of a mobile phase (continuous solvent flow). Analytes with molecular size larger than the pore size cannot enter inside the gel beads and hence elute rapidly in a single zone. On the other hand, small molecular size analytes capable of diffusing in and out of the gel beads are retained for a longer time in the column bed. Analytes of intermediate size migrate at a rate between those of the large and small molecules. Hence, the order of elution of the analytes is directly correlated to their molecular size.
-![]()
+![gel](gel.png)
 
 **Materials:** (i) 10 ml plastic disposable syringe (ii) Sephadex G-10 (iii) Glass wool (iv) Screw clip (v) Silicone tube (vi) burette stand with clamp (vii) Sample: Add 2 mg each blue-dextran and potassium dichromate in 1 ml water and mix. Blue-dextran is a high molecular weight polysaccharide (~ 2000 kDa). 
 
@@ -1091,7 +1092,7 @@ Gel-filtration chromatography is used to resolve analytes by their molecular siz
 Agarose gel electrophoresis is used for resolving DNA/RNA molecules.
 
 **Principle:** Agarose gel electrophoresis is widely used for resolving DNA and RNA molecules. Agarose is extracted from seaweed and is a linear polymer of D-galactose and 3,6-anhydro-L-galactose. Agarose gels are prepared by boiling agarose in electrophoresis buffer and then cooling to 50°C and pouring into a mold. The porosity of agrose gel matrix decreases with an increase in agrose concentration. DNA is negatively charged at netural pH and migrates towards the anode under electric field. The mobility of DNA molecules depends on its molecular size and conformation as well as the agarose concentration. The rate of migration of DNA molecules in the gel is inversely proportional to the logarithm of their molecular weights. Generally the superhelical circular form has the greates mobility followed by the rod-like linear form. The extended circular form migrates more slowly. Nucleic acids can be visualized as an intense bright orange band on the gel by staining with an interchelating dye, ethidium bromide (EtBr). A band containing less than about 10 ng of DNA might not be visible after EtBr staining. Agarose gel has a low resolving power (the limit of resolution being generally around 750 kb) but has a broad range of separation (usually 1% agarose gel is used for DNA fragments 50 bp to 20 kb in size). Bromophenol Blue and xylene cyanol dyes are incorporated in the loading buffer and act as size markers (migrate at approximately 300 and 3000 bp respectively).
-![]()
+![ele](electro.png)
 The repeating unit consists of D-galactose (β1→4)-linked to 3,6-anhydro-L-galactose (in which an ether bridge connects C-3 and C-6). These units are joined by (α1→3) glycosidic links to form a polymer 600 to 700 residues long. A small fraction of the 3,6anhydrogalactose residues have a sulfate ester at C-2.
 
 **Materials:** (i) Horizontal electrophoresis apparatus with power pack (ii) 10-50 µl micropipettes (iii) UV transilluminator (iv) Gloves (v) Running buffer stock solution (10X) Tris-acetate (TAE): Dissolve 48.4 g Tris-base, 11.4 ml glacial acetic acid and 20 ml of 0.5 M EDTA, pH 8 in 1 liter water. Store at 4°C (vi) EtBr Stain: Dissolve 100 mg ethidium bromide in 10 ml of 1X TAE buffer (vii) 1% agarose in 1X TAE buffer: Boil the agarose slurry by till it turns transparent. Add 1 µl of ethidium bromide stain and mix (vii) Gel tracking dye (6X): Add 1 ml glycerol and 2 mg bromophenol blue in 9 ml water. (viii) Standard DNA markers: Commercially available DNA ladder. 
@@ -1102,13 +1103,13 @@ The repeating unit consists of D-galactose (β1→4)-linked to 3,6-anhydro-L-gal
 2. Transfer the gel tray along with the gel into the elctrophoresis tank (remember to remove the adhesive tape). Position the gel such that the loading wells lie towards the cathode.
 3. Fill the tank with appropriate volume of 1X TAE buffer. Load 10-20 µl of DNA samples (mixed with loading dye) and DNA marker in separating well.
 4. Run at 10-25 mAmp till the dye front reaches the other end of the gel. 5. Switch off the power supply and observe for DNA band/s in a UV transilluminator. 6. The approximate molecular weight of the sample DNA can be determined by comparing its migration with that of the bands of the DNA ladder.
-![]()
+![elec](agarose.png)
 
 
 ### Cellulose Acetate Paper Electrophoresis
 
 **Principle:** Cellulose acetate paper electrophoresis is a simple, rapid and reliable method widely used to detect common clinically important hemoglobin. This method is called hemoglobin electrophoresis. The hemoglobin variants (differing in their amino acid composition) are separated at distinctive rates due to difference in their surface charge. Under alkaline conditions (pH 8.4-8.6) hemoglobin molecules are negatively charged and thus migrate towards the anode (positive) during electrophoresis. Hemoglobin variants will not separate if the amino acid substitution does not result in a change in the overall charge on the protein or if the amino acid substitution is at a site buried in the three-dimensional structure of the protein. Under normal conditions, HbA, the adult hemoglobin, consists of two alpha and two beta chains, whereas HbF, the fetal hemoglobin, consists of two alpha and two gamma chains. This technique is sensitive enough to separate HbA from HbF and to detect Hb A2 variants.
-![]()
+![cell](cellulose.png)
 
 **Reagents:** (i) Electrophoresis buffer: Tris/EDTA/Borate (TEB) pH 8.4. Dissolve 10.3 g Tris, 0.6 g EDTA and 3.2 g boric acid in 1 L water. Store at 4°C (ii) Fixing and staining solution: Dissolve 5 g Ponceau S and 7.5 g trichloroacetic acid in 1 L water (iii) Destaining solution: 5% (v/v) acetic acid (iv) Haemolyzing reagent: Dissolve 0.5% (v/v) Triton X-100 in 100 mg/l potassium cyanide. 
 
