@@ -9,7 +9,7 @@ Molisch test is a group test for all carbohydrates either free or bound to prote
 **Principle:** 
 The reaction is based on the fact that concentrated acid catalyses the dehydration of sugars to form furfural (from pentoses) or hydroxymethyl furfural (from hexoses). Either of these aldehydes condenses with two molecules of napthol to form a purple or violet colored complex at the interface of the acid and test layer. If the carbohydrate is a poly- or disaccharide, a glycoprotein or a glycolipid, the acid first hydrolyses it into component monosaccharides, which get dehydrated to form furfural or its derivatives.
 
-![molish reaction](C:\Users\anand tiwari\Documents\molish.PNG)
+![molish reaction](molish.png)
 
 **Procedure:** 
 
@@ -53,7 +53,7 @@ Benedict’s test is used to differentiate between reducing and non-reducing sug
 
 **Principle:** The carbohydrates having a free or potentially free, aldehyde or ketone group can act as a reducing agent. Benedict’s reagent appears deep blue in color and consists of copper sulphate mixed with sodium citrate and a weak alkali, sodium carbonate. When reducing sugars are heated in the presence of alkali they get converted to enediols, which are powerful reducing agents. Enediols reduce the cupric ions (Cu2+) present in the Benedicts reagent to cuprous ions (Cu+), which get precipitated as insoluble red colored cuprous oxide (Cu2O).The test is semi-quantitative, since the color of the precipitate indicates approximate quantity of the sugar present in the sample. For a sample containing reducing sugar the color of the sample during boiling progress from blue (with no reducing sugar present), green, yellow, orange, red, and then brick red or brown (with high concentration of reducing sugars). The citrate ions form a complex with cupric ions and prevent its precipitation with the hydroxide ions as cupric hydroxide. 
 
-![benedicts reaction](C:\Users\anand tiwari\Documents\benedicts.png)
+![benedicts reaction](benedicts.png)
 
 **Procedure:**
 
@@ -74,7 +74,7 @@ Barfoed’s test is used to detect reducing monosaccharides in the presence of d
 
 **Principle:** Barfoed’s reagent consists of copper acetate in dilute acetic acid. Since acidic pH is unfavorable for reduction, monosaccharides, which are stronger reducing agents, react in about 1-2 min, whereas reducing disaccharides take 7-12 min to first get hydrolyzed in the acidic solution and then react. A thin red precipitate is formed at the bottom or sides of the tube. Thus, the difference in reducing strength can be detected.
 
-![barfoeds reaction](C:\Users\anand tiwari\Documents\barfoeds.png)
+![barfoeds reaction](barfoeds.png)
 
 **Procedure:**
 
@@ -102,7 +102,7 @@ Seliwanoff’s test is a timed color reaction specific for ketohexoses. It is us
 
 **Principle:**The reagent consists of resorcinol and conc HCl. The acid hydrolyses of polysaccharides and oligosaccharides yields simpler sugars. Ketohexoses undergo dehydration to yield 5-hydroxymethyl furfural more rapidly than aldohexoses. The dehydrated ketose reacts with resorcinol to produce a deep cheery red color complex (not precipitate). Aldoses may react slightly to produce a faint pink to cherry red color.
 
-![selwinoff reaction](C:\Users\anand tiwari\Documents\selwinoff.png)
+![selwinoff reaction](selwinoff.png)
 
 **Procedure:**
 
@@ -117,7 +117,7 @@ Osazone test is used to detect reducing sugars.
 
 **Principle:** The reagent consists of phenylhydrazine in acetate buffer. Carbohydrates with free or potentially free carbonyl groups react with phenylhydrazine to form osazone. The condensation-oxidation-condensation reaction between three molecules of phenylhydrazine and carbon one and two of aldoses or ketoses to yields 1,2-diphenyhydrazone, which are known as osazone. Osazone appear as yellow colored crystals of characteristic shape, solubility, melting point and time of formation. Since both carbons 1 and 2 are involved in the reaction C-2 epimers produce the same osazone. Ketoses with configurations identical to aldoses below C-2 give the same osazones e.g. glucose and fructose.
 
-![osazone reaction](C:\Users\anand tiwari\Documents\osazone1.png)
+![osazone reaction](osazone1.png)
 
 
 The characteristic features of osazone are given in the following table:
@@ -139,7 +139,8 @@ The characteristic features of osazone are given in the following table:
 **Note:**
 1. This is the only test to distinguish lactose from maltose during identification of unknown sugars.
 2. Sucrose is a non-reducing sugar but it forms osazone on boiling for 30 min. Maltose and Lactose form osazone after boiling the sample for more than 2 hrs.
-3. Osazones of monosaccharides are insoluble in hot solution unlike those of disacchrides. 4. After incubating the tubes in boiling water bath for 30 min, the osazone solution should be allowed to cool gradually to room temperature to facilitate proper formation of the crystals. Tubes should not be cooled under running tap water or on ice.
+3. Osazones of monosaccharides are insoluble in hot solution unlike those of disacchrides. 
+4. After incubating the tubes in boiling water bath for 30 min, the osazone solution should be allowed to cool gradually to room temperature to facilitate proper formation of the crystals. Tubes should not be cooled under running tap water or on ice.
 5. Sodium acetate and acetic acid together function as acetate buffer and maintain the pH at 5, which is proper for the formation of osazones. If excess acetic acid is added, the pH of the reaction reduces further resulting in the hydrolysis of disaccharides to monosacharides, which then form osazones insoluble in hot solution.
 
 
@@ -149,14 +150,14 @@ Anthrone method is a group test for carbohydrates. It is a rapid and convenient 
 
 **Principle:**If the carbohydrate is a poly- or disaccharide, a glycoprotein or a glycolipid, the concentrated acid present in anthrone reagent first hydrolyses it into component monosaccharides. Further the concentrated acid catalyses the dehydration of sugars to form furfural (from pentoses) or hydroxymethyl furfural (from hexoses). Either of these aldehydes condenses with two molecules of napthol to form a bluish green complex, which is quantified by measuring absorbance at 620 nm in a spectrophotometer or using red filter in a colorimeter.
 
-![anthrone reaction](C:\Users\anand tiwari\Documents\anthrone2.png)
+![anthrone reaction](anthrone2.png)
 
 **Reagents:** Dissolve 2 g anthrone in 50 ml conc. H2SO4, makeup to 100 ml with conc. H2SO4.
 
 **Procedure:** 
 
 1. Setup and process the standard (glucose), blank and unknown sample as described in the table below.
-![anthrone table](C:\Users\anand tiwari\Documents\anthrone3.png)
+![anthrone table](anthrone3.png)
 2. Measure absorbance at 620 nm in spectrophotometer or in colorimeter using red filter. Use the blank to set absorbance to zero then measure absorbance of each tube.
 3. Plot a standard curve using absorbance values of serial dilutions of glucose. (X-axis: sugar concentration in µg/ml; Y-axis: absorbance at 620 nm). Based on the standard curve determine carbohydrate content in unknown sample.
 
@@ -172,7 +173,7 @@ Dinitrosalicylic acid (DNSA) method is used for estimating the concentration of 
 
 **Principle:** The carbohydrates having a free or potentially free, aldehyde or ketone group can act as reducing agents. The DNSA reagent is an alkaline solution of 3,5dinitrosalicyclic acid and tartarate salt. On heating the reducing sugars can reduce 3,5dinitrosalicyclic acid to 3-amino-5-nitrosalicyclic acid, which appears orange-red in color. The intensity of the color is proportional to amount of reducing sugar present in the sample. The orange color developed is compared to standards in a spectrophotometer at 540 nm.
 
-![dinitrosalicilic reaction](C:\Users\anand tiwari\Documents\dnsa.png)
+![dinitrosalicilic reaction](dnsa.png)
 
 **Reagents:** Dissolve 30 g potassium sodium tartarate in 50 ml water and add 20 ml 2 M NaOH. Mix well, add 1 g DNSA powder and make up to 100 ml with H2O
 
@@ -180,7 +181,7 @@ Dinitrosalicylic acid (DNSA) method is used for estimating the concentration of 
 
 1. Setup and process the standard (glucose), blank and unknown sample as described in the table below.
 
-![dinitrosalicilic table](C:\Users\anand tiwari\Documents\dnsa2.png)
+![dinitrosalicilic table](dnsa2.png)
 2. Measure absorbance at 540 nm in spectrophotometer. Use the blank to set absorbance to zero then measure absorbance of each tube.
 3. Plot a standard curve using absorbance values of serial dilutions of glucose. (Xaxis: sugar concentration in µg/ml; Y-axis: absorbance at 540 nm). Based on the standard curve determine carbohydrate content in unknown sample.
 
@@ -204,7 +205,7 @@ The Roe’s method is a modified Selod and is generally used to determine the co
 
 1. Setup and process the standard (glucose), blank and unknown sample as described in the table below.
 
-![roes](C:\Users\anand tiwari\Documents\roes.png)
+![roes](roes.png)
 
 2. Measure absorbance at 520 nm in spectrophotometer. Use the blank to set absorbance to zero then measure absorbance of each tube.
 3. Plot a standard curve using absorbance values of serial dilutions of fructose. (Xaxis: sugar concentration in µg/ml; Y-axis: absorbance at 520 nm). Based on the standard curve determine carbohydrate content in unknown sample (remember to take the dilution factor into account).
@@ -216,11 +217,11 @@ Fehling’s test is used to differentiate between reducing and non-reducing suga
 
 **Principle:** The carbohydrates having a free or potentially free, aldehyde or ketone group can act as reducing agents. Fehling’s reagent appears deep blue in color and consists of copper sulphate mixed with potassium sodium tartarate and a strong alkali, usually, sodium hydroxide. On heating the sample in presence of Fehling’s solution, bistartarocuprate(II) complex oxidizes the aldoses to corresponding aldonic acids, and in the process the copper(II) ions of the complex are reduced to insoluble yellow or red color precipitate of cuprous(I) oxide(Cu2 yield shorter chain acids. 
 
-![fehling](C:\Users\anand tiwari\Documents\fehling1.png)
+![fehling](fehling1.png)
 
 The tartarate ions prevent the formation of insoluble Cu(OH)2 from the reaction of CuSO4.5H2O and NaOH present in the solution by forming bistartaratocuprate(II) complex. This complex releases cupric ions slowly for reduction thus preventing the formation of black cupric oxide. If Fehling’s solution is heated in the absence of reducing sugars it forms black precipitate of cupric oxide.
 
-![fehling](C:\Users\anand tiwari\Documents\fehling2.png)
+![fehling](fehling2.png)
 
 **Reagents:** Fehling’s solution A- Dissolve 7.0 g of CuSO4 .7H2O in 100 ml H2 O. Fehling’s solution B- Dissolve 24.0 g of KOH and 34.6 g of potassium sodium tartarate in 100 ml H2O. Fehling’s reagent- Mix equal volumes of A and B solution just before use.
 
@@ -263,7 +264,7 @@ Mucic acid test is used to detect the presence of galactose.
 
 **Principle:** Monosaccharides upon treating with strong oxidizing agents such as nitric acid yield saccharic acids. Nitric acid has the capacity to xidize both aldehyde and primary alcoholic groups present at C1 and C6 respectively of galactose to yield an insoluble precipiate (rod shaped crystals) of mucic acid and thus the name of the test. Galactose containing saccharides test positive to this reaction.
 
-![mucic](C:\Users\anand tiwari\Documents\mucic.png)
+![mucic](mucic.png)
 
 **Reagent:** conc. Nitric acid. Sugar solution: galactose (2% w/v in distilled water).
 
