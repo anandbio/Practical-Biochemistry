@@ -148,7 +148,7 @@ The characteristic features of osazone are given in the following table:
 
 Anthrone method is a group test for carbohydrates. It is a rapid and convenient method for quantification of carbohydrates either free or bound to proteins and lipids.
 
-**Principle:**If the carbohydrate is a poly- or disaccharide, a glycoprotein or a glycolipid, the concentrated acid present in anthrone reagent first hydrolyses it into component monosaccharides. Further the concentrated acid catalyses the dehydration of sugars to form furfural (from pentoses) or hydroxymethyl furfural (from hexoses). Either of these aldehydes condenses with two molecules of napthol to form a bluish green complex, which is quantified by measuring absorbance at 620 nm in a spectrophotometer or using red filter in a colorimeter.
+**Principle:** If the carbohydrate is a poly- or disaccharide, a glycoprotein or a glycolipid, the concentrated acid present in anthrone reagent first hydrolyses it into component monosaccharides. Further the concentrated acid catalyses the dehydration of sugars to form furfural (from pentoses) or hydroxymethyl furfural (from hexoses). Either of these aldehydes condenses with two molecules of napthol to form a bluish green complex, which is quantified by measuring absorbance at 620 nm in a spectrophotometer or using red filter in a colorimeter.
 
 ![anthrone reaction](anthrone2.png)
 
@@ -277,7 +277,7 @@ Mucic acid test is used to detect the presence of galactose.
 
 ## Amino acids
 
-### Ninhydrin Test (qualitative)
+### Ninhydrin Test (Qualitative)
 
 Ninhydrin test is commonly used to differentiate carbohydrates from amino acids. This test is also useful in quantitative determination of amino acids in a given sample.
 
@@ -290,11 +290,15 @@ Ninhydrin test is commonly used to differentiate carbohydrates from amino acids.
 2. Ninhydrin test is quite sensitive (~ 0.5 nmol). Ninhydrin is commonly used to detect fingerprints, since the terminal amines of lysine residues in peptides and proteins shed off in fingerprints react with ninhydrin.
 
 
-### Ninhydrin Test (quantitative)
+### Ninhydrin Test (Quantitative)
 
 **Principle:** Same as described in experiment 13. 
 
-**Reagent:** Dissolve 0.35 g ninhydrin in 100 ml ethanol. (iso-propanol or 1:1 mixture of acetone/butanol may be used instead of ethanol). Diluent solvent: Mix equal volumes of water and n-propanol. Procedure: 1. Setup and process the standard (amino acid), blank and unknown sample as described in the table below.
+**Reagent:** Dissolve 0.35 g ninhydrin in 100 ml ethanol. (iso-propanol or 1:1 mixture of acetone/butanol may be used instead of ethanol). Diluent solvent: Mix equal volumes of water and n-propanol. 
+
+**Procedure:**
+
+1. Setup and process the standard (amino acid), blank and unknown sample as described in the table below.
 
 ![ninhydrin](ninhydrin1.png)
 
@@ -480,7 +484,10 @@ There are correspondingly more pK values for amino acids having more than two io
 ### Ethanol emulsion Test 
 Ethanol emulsion test is a general group test for detection of lipids.
 
-**Principle:** The presence of lipids is observed by the appearance of cloudy white layer on top of the reaction mixture. This test is based on the fact that lipids are dissolve in ethanol (due to hydrophobic interactions) but on addition of water, lipids spontaneously disperse to form micelles (small droplets), which form the top layer (being less dense than water and ethanol) and appear cloudy white (since droplets diffract light). The lipids come out of the solution because the overall strength of hydrogen bonding interaction between ethanol and water is much greater than hydrophobic interaction between lipid and ethanol. Reagents: Ethanol and water 
+**Principle:** The presence of lipids is observed by the appearance of cloudy white layer on top of the reaction mixture. This test is based on the fact that lipids are dissolve in ethanol (due to hydrophobic interactions) but on addition of water, lipids spontaneously disperse to form micelles (small droplets), which form the top layer (being less dense than water and ethanol) and appear cloudy white (since droplets diffract light). The lipids come out of the solution because the overall strength of hydrogen bonding interaction between ethanol and water is much greater than hydrophobic interaction between lipid and ethanol. 
+
+**Reagents:** Ethanol and water 
+
 **Procedure:** Add 2 ml ethanol to few drops of the fat sample and shake well. Then add 2 ml of water and shake well. Note: Samples with high lipid content will form a thicker cloudy suspension.
 
 ### Acrolein Test 
@@ -489,7 +496,9 @@ The acrolein test is used to detect glycerol or its fatty acid esters.
 **Principle:** This test is based on the fact that a pungent smelling (odor similar to burnt cooking grease) compound, acrolein (unsaturated aldehyde) is formed by dehydration of glycerol, when a fat is strongly heated in the presence of a dehydrating agent such as potassium hydrogen sulfate.
 ![]()
 
-**Reagent:** Anhydrous potassium hydrogen sulfate Procedure: Add 1 g KHSO4 to 5-6 drops of the lipid sample. Heat the test tube slowly over a bunsen burner till fumes appear. Note the odor of the fumes. Note: Glycerol may be taken as a positive control for correct identification of odor of acrolein.
+**Reagent:** Anhydrous potassium hydrogen sulfate Procedure: Add 1 g KHSO4 to 5-6 drops of the lipid sample. Heat the test tube slowly over a bunsen burner till fumes appear. Note the odor of the fumes. 
+
+**Note:** Glycerol may be taken as a positive control for correct identification of odor of acrolein.
 
 ### Sudan IV 
 The Sudan IV test is used to detect lipids in a given sample.
@@ -522,9 +531,11 @@ Calculation: Acid value = (56.1 x Z x N) / P Where, Z= ml alcoholic KOH, N= norm
 ### Peroxide Value 
 The peroxide value is defined as the amount of peroxide oxygen per kilogram of fat or oil.
 
-**Principle:** Oxidative rancidity of unsaturated fats or oils is primarily due to autoxidation by free radical reaction involving oxygen and generation of peroxide intermediates. The concentration of peroxide in an oil or fat is its peroxide value, and gives a fair indication of its age and extent of deterioration. The peroxide value is defined as the amount of peroxide oxygen per one kilogram of fat or oil. It is expressed either in milliequivalents of peroxide/kg or millimoles of peroxide. The peroxide value is determined by estimating the iodine released from potassium iodine by peroxide, by titrating against sodium thiosulfate. The reaction scheme for hydroxyperoxides in presence of acetic acid is as follows: Generation of iodine:
+**Principle:** Oxidative rancidity of unsaturated fats or oils is primarily due to autoxidation by free radical reaction involving oxygen and generation of peroxide intermediates. The concentration of peroxide in an oil or fat is its peroxide value, and gives a fair indication of its age and extent of deterioration. The peroxide value is defined as the amount of peroxide oxygen per one kilogram of fat or oil. It is expressed either in milliequivalents of peroxide/kg or millimoles of peroxide. The peroxide value is determined by estimating the iodine released from potassium iodine by peroxide, by titrating against sodium thiosulfate. The reaction scheme for hydroxyperoxides in presence of acetic acid is as follows: 
+Generation of iodine:
 ![]()
-The peroxides formed in fat or oil react with iodide to release iodine. The base (OHproduced in this reaction is taken up by excess acetic acid present in the reaction mixture. Titration step:
+The peroxides formed in fat or oil react with iodide to release iodine. The base (OHproduced in this reaction is taken up by excess acetic acid present in the reaction mixture. 
+Titration step:
 ![]()
 The iodine liberated in the previous step is titrated with sodium thiosulfate. The indicator used in this reaction is a starch solution where amylose forms a blue to black solution with iodine and is colorless where iodine is titrated. 
 
@@ -586,10 +597,15 @@ Libermann-Burchard method is used for estimating serum cholesterol of the given 
 **Principle:** The test is based on the fact that the sterols with unsaturation in ring A or B react with concentrated sulfuric acid in the presence of acetic anhydride and undergo dehydration (at C3), oxidation (to form 3,5-cholestadiene) and isomerisation reactions to yield a polymer containing a green color chromophore (λmax 640 nm).
 ![]()
 
-**Reagents:** (i) 1:1 ethanol-acetone mixture (ii) 250 µg/ml cholesterol stock solution in chloroform (iii) Acetic anhydride- H2SO4 reagent: Add 2 ml conc. H2 SO4 to 60 ml acetic anhydride in a beaker on ice. Gently mix the keeping the mixture chilled. Prepare fresh. If blue tinge appears, discard the reagent and prepare again. Procedure: 1. Add 0.2 ml of blood/serum to 10 ml ethanol-acetone solvent in a centrifuge tube. Mix well.
+**Reagents:** (i) 1:1 ethanol-acetone mixture (ii) 250 µg/ml cholesterol stock solution in chloroform (iii) Acetic anhydride- H2SO4 reagent: Add 2 ml conc. H2 SO4 to 60 ml acetic anhydride in a beaker on ice. Gently mix the keeping the mixture chilled. Prepare fresh. If blue tinge appears, discard the reagent and prepare again. 
+
+**Procedure:**
+
+1. Add 0.2 ml of blood/serum to 10 ml ethanol-acetone solvent in a centrifuge tube. Mix well.
 2. Keep the tube in boiling water bath with gentle agitation until the solvent begins to boil. Shake the tube for 5 min (proteins precipitate)
 3. Cool to room temperature. Centrifuge for 5 min, collect supernatant in a fresh test tube and evaporate the solvent in a boiling water bath.
-4. Cool and redissolve the residue in 2 ml chloroform. 5. To prepare a standard curve set up a series of test tubes with 2 ml of cholesterol in the range of 0-250 µg/ml. Similarly prepare the reagent blank with 2 ml of chloroform only.
+4. Cool and redissolve the residue in 2 ml chloroform. 
+5. To prepare a standard curve set up a series of test tubes with 2 ml of cholesterol in the range of 0-250 µg/ml. Similarly prepare the reagent blank with 2 ml of chloroform only.
 6. Add 2 ml of the reagent to all the tubes and mix. Incubate all the tubes in dark for 15 min at room temperature and measure the absorbance at 640 nm.
 7. Likewise prepare various dilutions of the test sample and process the tubes in exactly the same manner as mentioned earlier. Estimate the concentration of cholesterol of chloroform using the standard curve.
 
@@ -847,7 +863,7 @@ Construct a standard curve for ammonia (X-axis: ammonia concentration in µmoles
 6. The assay mix may be diluted appropriately, if required. Plot the enzyme activity on Xaxis and temperature on Y-axis, to determine the optimal temperature for urease activity.
 
 
-# Part 3: Bioanlytical Techniques
+# Part 3: Bioanalytical Techniques
 
 
 ## Molar attenuation coefficient
@@ -875,7 +891,9 @@ Ammonium sulfate precipitation method is widely used for purification of protein
 
 1. Collect the egg white portion of an egg in a 100 ml beaker. Add equal volume of distilled water.
 2. In a 15 ml centrifuge tube 2 ml of the dilute egg white solution and add equal volume of saturated ammonium sulfate solution. Mix gently (avoid frothing).
-3. Centrifuge at 2500-3000 rpm for 10 min. Decant the supernatant into a fresh tube. 4. Add solid ammonium sulfate to saturate the solution. Mix gently. Note: The precipitate observed at 50 and 100% saturation of ammonium sulfate is that of globulins and albumins, respectively.
+3. Centrifuge at 2500-3000 rpm for 10 min. Decant the supernatant into a fresh tube. 4. Add solid ammonium sulfate to saturate the solution. Mix gently. 
+
+**Note:** The precipitate observed at 50 and 100% saturation of ammonium sulfate is that of globulins and albumins, respectively.
 
 
 ## Dialysis
