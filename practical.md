@@ -281,7 +281,7 @@ Mucic acid test is used to detect the presence of galactose.
 
 Ninhydrin test is commonly used to differentiate carbohydrates from amino acids. This test is also useful in quantitative determination of amino acids in a given sample.
 
-**Principle:** This assay is based on the fact that two molecules of ninhydrin (2,2dihydroxyindane-1, 3-dione) react with a free alpha-amino acid to produce a deep blue or purple color known as Ruhemann’s purple. In this reaction ninhydrin acts as an oxidizing agent and causes the deamination and decarboxylation of the amino acids at elevated temperature, which is followed by condensation between reduced ninhydrin molecules, released ammonia and second molecule of ninhydrin, to form the blue-purple complex (λmax 570 nm). The intensity of the formed complex is proportional to the concentration of amino acids in the solution.
+**Principle:** This assay is based on the fact that two molecules of ninhydrin (2,2 dihydroxyindane-1, 3-dione) react with a free alpha-amino acid to produce a deep blue or purple color known as Ruhemann’s purple. In this reaction ninhydrin acts as an oxidizing agent and causes the deamination and decarboxylation of the amino acids at elevated temperature, which is followed by condensation between reduced ninhydrin molecules, released ammonia and second molecule of ninhydrin, to form the blue-purple complex (λmax 570 nm). The intensity of the formed complex is proportional to the concentration of amino acids in the solution.
 
 **Procedure:** Add few drops of ninhydrin reagent to 1 ml of amino acid solution and mix. Place the tubes in boiling water bath for 5 min and then allow cooling to room temperature. 
 
@@ -296,7 +296,7 @@ Ninhydrin test is commonly used to differentiate carbohydrates from amino acids.
 
 **Reagent:** Dissolve 0.35 g ninhydrin in 100 ml ethanol. (iso-propanol or 1:1 mixture of acetone/butanol may be used instead of ethanol). Diluent solvent: Mix equal volumes of water and n-propanol. Procedure: 1. Setup and process the standard (amino acid), blank and unknown sample as described in the table below.
 
-![] ()
+![ninhydrin](ninhydrin1.png)
 
 2. Measure absorbance at 570 nm (440 nm for proline and hydroxyproline) in spectrophotometer. The color is stable for 1 h. Use the blank to set absorbance to zero then measure absorbance of each tube.
 3. Plot a standard curve using absorbance values of serial dilutions of alanine. (Xaxis: amino acid concentration in µg/ml; Y-axis: absorbance). Based on the standard curve determine amino acid content in unknown sample.
