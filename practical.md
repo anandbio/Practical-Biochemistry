@@ -36,7 +36,7 @@ Iodine test is used to distinguish mono- or disaccharides from certain polysacch
 
 Iodine test is based on the fact that polyiodide ions form colored adsorption complex with helical chains of glucose residues of amylose (blue-black), dextrin (purple) or glycogen (reddish-brown). Monosaccharides, disaccharides and branched polysaccharides like cellulose remain colorless. Amylopectin produces an orange-yellow hue. The reagent used in iodine test is Lugol’s iodine, which is an aqueous solution of elemental iodine and potassium iodide. Iodine on its own is insoluble in water. Addition of potassium iodide results in reversible reaction of the iodide ion with iodine to form triiodide ion, which further reacts with an iodine molecule to form pentaiodide ion. Bench iodine solution appears brown, whereas, the iodide, triiodide and pentaiodide ions are colorless. Many details of how exactly the color during this test is developed are still unknown. It is observed that the helix (coil or spring) structure of the glucose chain is the key to this test. Further, the resulting color depends on the length of the glucose chains. The triiodide and pentaiodide ions formed are linear and slip inside the helix structure. It is believed that transfer of charge between the helix and the polyiodide ions results in changes in the spacing of the energy levels, which can absorb visible light, giving the complex its color.
 
-![Iodine test](C:\Users\anand tiwari\Documents\iodine_starch.png)
+![Iodine test](iodine_starch.png)
 
 **Procedure:**
 
