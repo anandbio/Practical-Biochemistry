@@ -1,7 +1,7 @@
 # [1 Introduction](practical.md)
 
 # 2 Qualitative & Quantitative Analysis
-  ## 2.1 Carbohydrates
+  ## [2.1 Carbohydrates](carbohydrate.md)
   ## 2.2 Amino acids
   ## 2.3 Lipids
   ## 2.4 Nucleic acids
