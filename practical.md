@@ -1211,13 +1211,35 @@ The repeating unit consists of D-galactose (β1→4)-linked to 3,6-anhydro-L-gal
 4. Carry out the electrophoresis at 350 V for about 30 min. 5. Remove the strips from the tank and place the strips in 10% trichloroacetic acid for 5 min to denaturate the proteins, then transfer to Ponceau S and fix and stain for 5 min. Washing with destaining solution thrice.
 6. Blot the strips with clean filter paper to remove excess liquid and allow the strip to dry.
 
+
+
+
 # Questions & Answers
 
 Practise questions with solutions.
 
-`r if (knitr::is_html_output()) '
-# References {-}
-'`
+
+
+
+# Bibliography
+
+1. Berg, J.M., J.L. Tymoczko and L. Stryer, Biochemistry (6th W.H. edition), Freeman and Co. , New York, 2007. 
+2. Boyer, R., Concepts in Biochemistry (3rd edition), John Wiley and sons, Inc., USA, 2006.  
+3. Chaykin, S., Biochemistry Laboratory Techniques, Wiley Eastern, New Delhi, 1966.
+4. Devlin, T.M., Textbook of Biochemistry and Clinical Correlations (6th edition) John Wiley and Sons, Inc., New York, 2006.
+5. Edlstein, S.J., Introductory Biochemistry, Holden-Day, Inc., California, 1973.
+6. Elliot, W.H and D.C. Elliot, Biochemistry and Molecular Biology, Oxford University Press, London, 2005.
+7. Hames, B.D., N.M. Hooper and J.D Houghton, Instant Notes in Biochemistry, Viva Books Pvt. Ltd., New Delhi, 1998.
+8. Jayaraman, J., Laboratory Manual in Biochemistry, Wiley eastern, New Delhi, 1981.
+9. Lowry, O.H., N.J. Rosenbrough, A.C. Farr and R.J. Randall, Protein Measurements with Folin-Phenol reagent, Journal of Biological Chemistry, 193: 265-275, 1951.
+10. Mathews, C., Biochemistry (3rd edition), Pearson Education, New Delhi,2000. 
+11. Miller, G.l., Use of Dinitrosalicylic acid reagent for determination of reducing suars, Analytical Chemistry, 31: 426-428, 1959. 
+12. Murray, R.K., Harper’s Ilustrated Biochemistry (26th edition), McGraw-Hill, Boston, 2003.
+13. Nelson, D.L. and M.M. Cox, Lehninger Principles of Biochemistry (4th edition), W.H. Freeman, New York, 2005.
+14. Plummer, D., Introduction to Practical Biochemistry (3rd edition), Tata McGraw-Hill, New Delhi, 1987. 
+15. Sawhney, S.K. and R. Singh, Introductory Practical Biochemistry, Narosa Publishing House, New Delhi, 2000.
+16. Voet, D., J. G. Voet and C.W. Pratt, Fundamentals of Biochemistry, John Wiley and Sons, Inc. New York, 1999.
+17. Wilson, K and J. Walker, Practical Biochemistry: Principles and Techniques (5th edition), Cambridge University Press, UK, 2000. 
 
 
 
