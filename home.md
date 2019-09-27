@@ -1,4 +1,4 @@
-# [1 Introduction](https:://practical.md)
+# [1 Introduction](practical.md)
 
 # 2 Qualitative & Quantitative Analysis
   ## 2.1 Carbohydrates
