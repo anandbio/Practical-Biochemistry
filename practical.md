@@ -1206,6 +1206,15 @@ The repeating unit consists of D-galactose (β1→4)-linked to 3,6-anhydro-L-gal
 4. Carry out the electrophoresis at 350 V for about 30 min. 5. Remove the strips from the tank and place the strips in 10% trichloroacetic acid for 5 min to denaturate the proteins, then transfer to Ponceau S and fix and stain for 5 min. Washing with destaining solution thrice.
 6. Blot the strips with clean filter paper to remove excess liquid and allow the strip to dry.
 
+# Questions & Answers
+
+Practise questions with solutions.
+
+`r if (knitr::is_html_output()) '
+# References {-}
+'`
+
+
 
 
 
