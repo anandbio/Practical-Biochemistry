@@ -2,6 +2,11 @@
 
 ## Carbohydrates
 
+![carb](reagents.png)
+
+![tab](carb_results.png)
+
+
 ### Molisch Test
 
 Molisch test is a group test for all carbohydrates either free or bound to proteins and lipids.
