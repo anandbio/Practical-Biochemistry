@@ -157,7 +157,9 @@ Anthrone method is a group test for carbohydrates. It is a rapid and convenient 
 **Procedure:** 
 
 1. Setup and process the standard (glucose), blank and unknown sample as described in the table below.
+
 ![anthrone table](anthrone3.png)
+
 2. Measure absorbance at 620 nm in spectrophotometer or in colorimeter using red filter. Use the blank to set absorbance to zero then measure absorbance of each tube.
 3. Plot a standard curve using absorbance values of serial dilutions of glucose. (X-axis: sugar concentration in µg/ml; Y-axis: absorbance at 620 nm). Based on the standard curve determine carbohydrate content in unknown sample.
 
@@ -182,6 +184,7 @@ Dinitrosalicylic acid (DNSA) method is used for estimating the concentration of 
 1. Setup and process the standard (glucose), blank and unknown sample as described in the table below.
 
 ![dinitrosalicilic table](dnsa2.png)
+
 2. Measure absorbance at 540 nm in spectrophotometer. Use the blank to set absorbance to zero then measure absorbance of each tube.
 3. Plot a standard curve using absorbance values of serial dilutions of glucose. (Xaxis: sugar concentration in µg/ml; Y-axis: absorbance at 540 nm). Based on the standard curve determine carbohydrate content in unknown sample.
 
@@ -197,7 +200,6 @@ The Roe’s method is a modified Selod and is generally used to determine the co
 
 **Principle:** Ketosugars undergo rapid dehydration to hydroxymethyl furfural than aldo sugars. The hydroxymethyl furfural formed later condenses with resorcinol to give a pink colored complex (λmax
 520 nm).
-
 
 **Reagents:** (i) Standard fructose stock solution (1 mg/ml): weigh 100 mg of fructose and transfer it into a 100 ml volumetric flask. Make up the volume to 100 ml with distilled water. (ii) Working standard fructose solution (100 µg/ml): dilute 10 ml of the stock solution to 100 ml with distilled water in a volumetric flask. (iii) Resorcinol reagent: resorcinol (0.1% w/v) and thiourea (0.25% w/v) in glacial acetic acid. (iv) Dilute HCl: mix concentrated hydrochloric acid and distilled water in the ratio of 5:1 
 
@@ -247,7 +249,8 @@ Somogyi-Nelson method is used for quantitative determination of relatively pure 
 
 **Procedure:**
 
-1. Add 1 ml alkaline copper reagent to each of the 1 ml standard, blank and sample. 2. Place the tubes in a boiling water bath for 10 min. 
+1. Add 1 ml alkaline copper reagent to each of the 1 ml standard, blank and sample. 
+2. Place the tubes in a boiling water bath for 10 min. 
 3. Let the tubes cool down, then add 1 ml arsenomolybdate reagent. 
 4. Make up the volume to 10 ml with water. 
 5. After 10 min, read the absorbance at 620 nm. 
@@ -282,13 +285,16 @@ Mucic acid test is used to detect the presence of galactose.
 Ninhydrin test is commonly used to differentiate carbohydrates from amino acids. This test is also useful in quantitative determination of amino acids in a given sample.
 
 **Principle:** This assay is based on the fact that two molecules of ninhydrin (2,2 dihydroxyindane-1, 3-dione) react with a free alpha-amino acid to produce a deep blue or purple color known as Ruhemann’s purple. In this reaction ninhydrin acts as an oxidizing agent and causes the deamination and decarboxylation of the amino acids at elevated temperature, which is followed by condensation between reduced ninhydrin molecules, released ammonia and second molecule of ninhydrin, to form the blue-purple complex (λmax 570 nm). The intensity of the formed complex is proportional to the concentration of amino acids in the solution.
+
 ![ninhydrin](ninhydrin1.png)
 
 **Procedure:** Add few drops of ninhydrin reagent to 1 ml of amino acid solution and mix. Place the tubes in boiling water bath for 5 min and then allow cooling to room temperature. 
 
 **Note:** 
 1. Ninhydrin reacts with proline, a secondary amine, to yield an iminium salt, which is yellow-orange in color.
+
 ![ninhydrin2](ninhydrin2.png)
+
 2. Ninhydrin test is quite sensitive (~ 0.5 nmol). Ninhydrin is commonly used to detect fingerprints, since the terminal amines of lysine residues in peptides and proteins shed off in fingerprints react with ninhydrin.
 
 
@@ -305,7 +311,7 @@ Ninhydrin test is commonly used to differentiate carbohydrates from amino acids.
 ![ninhydrin](ninhydrin3.png)
 
 2. Measure absorbance at 570 nm (440 nm for proline and hydroxyproline) in spectrophotometer. The color is stable for 1 h. Use the blank to set absorbance to zero then measure absorbance of each tube.
-3. Plot a standard curve using absorbance values of serial dilutions of alanine. (Xaxis: amino acid concentration in µg/ml; Y-axis: absorbance). Based on the standard curve determine amino acid content in unknown sample.
+3. Plot a standard curve using absorbance values of serial dilutions of alanine. (X-axis: amino acid concentration in µg/ml; Y-axis: absorbance). Based on the standard curve determine amino acid content in unknown sample.
 
 **Note:**
 1. The color intensity developed by reaction of amino acids with ninhydrin depends on type of amino acid.
@@ -316,6 +322,7 @@ Ninhydrin test is commonly used to differentiate carbohydrates from amino acids.
 ### Isatin Test
 
 **Principle:** Imino acids such as proline and hydroxyproline react with isatin (1H-indole2,3-dione) under acidic conditions to yield a blue colored adduct.
+
 ![isatin](isatin.png)
 
 **Procedure:**
@@ -329,7 +336,8 @@ Ninhydrin test is commonly used to differentiate carbohydrates from amino acids.
 Xanthoprotic test is used to determine presence of aromatic amino acids like tyrosine and tryptophan.
 
 **Principle:** This test is based on the fact that aromatic groups in the amino acids are nitrated by heating with concentrated HNO3 to yield intensely yellow colored nitro derivative. In the presence of alkali, a salt of the tautomeric form of the nitro compound is formed, which has an orange color.
-![xanthprotic](xanthoprotic.png)
+
+![xanthprotic](xanthprotic.png)
 
 **Procedure:**
 
@@ -344,6 +352,7 @@ In phenylalanine the phenyl group is very stable, therefore it doesnot react wit
 Pauly’s diazo test is used to detect the presence of tyrosine or histidine. 
 
 **Principle:** Sulfanilic acid upon diazotization in the presence of sodium nitrite and hydrochloric acid results in the formation of p-phenyldiazosulphonate. The diazonium salt formed couples with histidine in alkaline medium to form a dark cherry-red color, which retains its tint on dilution and changes to orange when the solution is made acidic. Tyrosine also gives a red color but this becomes yellow on dilution and bronze-yellow on acidification. One mole of histidine or tyrosine reacts with 2 moles of the diazonium compound to produce one mole of bis(azobenzenesulphonic acid)histidine or bis(azobenzenesulphonic acid)tyrosine.
+
 ![paulys](paulys.png)
 
 **Procedure:**
@@ -359,6 +368,7 @@ Pauly’s diazo test is used to detect the presence of tyrosine or histidine.
 The Sakaguchi test detects the presence of guanidinium group of arginine in proteins.
 
 **Principle:** Sakaguchi reagent is composed of 1-naphthol and a drop of sodium hypobromite. The guanidine group in arginine reacts with Sakaguchi reagent to form a red colored complex (due to the formation of an indophenol-like structure). The exact mechanism of this reaction is not yet known.
+
 ![sakaguchi](sakaguchi.png)
 
 **Procedure:**
@@ -371,6 +381,7 @@ The Sakaguchi test detects the presence of guanidinium group of arginine in prot
 Millon’s test is a specific test for tyrosine.
 
 **Principle:** The reaction is based on the fact that the hydroxybenzene radical of tyrosine reacts with Millon’s reagent, which constitutes acid mercuric sulphate and sodium nitrite to yield a red color complex.
+
 ![millons](millons.png)
 
 **Procedure:** 
@@ -386,6 +397,7 @@ Millon’s test is a specific test for tyrosine.
 Ehrlich test is a specific test for tryptophan.
 
 **Principle:** This reaction is based on the fact that under acidic conditions the Ehrlich’s aldehyde reagent (p-dimethyaminobenzaldehyde) undergoes electrophilic substitution reaction at the indole (a benzyl pyrrole) ring of tryptophan to yield a blue-violet condensation product.
+
 ![ehrlich](ehrlich.png)
 
 **Procedure:** Add 2 ml Ehrlich’s reagent to 0.5 ml test solution and observe the tube for color change.
@@ -395,13 +407,16 @@ Ehrlich test is a specific test for tryptophan.
 Nitroprusside test is used to detect presence of free –SH groups, cystein in a protein. 
 
 **Principle:** Reaction of cystein with sodium nitroprusside, Na2 Fe(CN)5 NO.2H2O, in ammonical solution will give a purple or brown product, a complex anion in which an octohedral ferrous center is surrounded by five tightly bonded cyanide groups. Many proteins that give a negative test may exhibit a positive test after heat coagulation or denaturation, indicating the liberation of free –SH groups.
+
 ![nitro](nitroprusside1.png)
 
 **Procedure:**
 
 1. Add 0.5 ml sodium nitroprusside to 2 ml test solution. 
 2. Add 0.5 ml ammonium hydroxide solution.
+
 ![nitro](nitroprusside2.png)
+
 
 ### Sullivan and McCarthy’s Test 
 
@@ -423,6 +438,7 @@ methionine followed by acidification of the reaction yields a red color. This re
 The Hopkins-Cole reaction, also known as the glyoxylic acid reaction, is a specific test used for detecting the presence of the indole ring and thus tryptophan in proteins.
 
 **Principle:** The test is based on the fact that layering concentrated sulfuric acid over a mixture of protein with Hopkins-Cole reagent (containing glyoxylic acid) results in the formation of a violet-purple ring at the interface of the liquids.
+
 ![hopkins](hopkins.png)
 
 **Reagents:** 0.1% amino acid solution. Glyoxylic acid: Expose glacial acetic acid to sunlight for a few days. 
@@ -439,6 +455,7 @@ The Hopkins-Cole reaction, also known as the glyoxylic acid reaction, is a speci
 The lead acetate test is a specific test for cysteine and cystine.
 
 **Principle:** In a strongly alkaline environment cysteine release sulfide ions, which react with lead acetate to form black lead sulfide.
+
 ![lead](lead_acetate.png)
 
 **Reagents:** 2% (w/v) lead acetate solution in water, 40% NaOH. 
@@ -497,11 +514,13 @@ Ethanol emulsion test is a general group test for detection of lipids.
 The acrolein test is used to detect glycerol or its fatty acid esters.
 
 **Principle:** This test is based on the fact that a pungent smelling (odor similar to burnt cooking grease) compound, acrolein (unsaturated aldehyde) is formed by dehydration of glycerol, when a fat is strongly heated in the presence of a dehydrating agent such as potassium hydrogen sulfate.
+
 ![acrolein](acrolein.png)
 
 **Reagent:** Anhydrous potassium hydrogen sulfate Procedure: Add 1 g KHSO4 to 5-6 drops of the lipid sample. Heat the test tube slowly over a bunsen burner till fumes appear. Note the odor of the fumes. 
 
 **Note:** Glycerol may be taken as a positive control for correct identification of odor of acrolein.
+
 
 ### Sudan IV 
 The Sudan IV test is used to detect lipids in a given sample.
@@ -509,6 +528,7 @@ The Sudan IV test is used to detect lipids in a given sample.
 **Principle:** This test is based on the fact that Sudan stains are non-polar compounds with high affinity for fats. They are soluble in lipids and insoluble in water. A positive test is indicated by a scarlet (red-orange) color in the lipid layer. The color change observed is only physical and does not structure of the lipid.
 
 **Reagents:** Sudan IV dye and water Procedure: Add 10 drops of the sample to 5 ml of water in the test tube. Transfer a small amount of Sudan IV stain to the tube (a tooth pick will do). Stopper the mouth of test tube and mix well. Observe for any change after 3 min.
+
 ![sudan](sudan_dye.png)
 
 
@@ -524,7 +544,8 @@ required to neutralize one gram of the oil or fat sample under the standard set 
 1. Add 50 ml of oil/fat solvent to 10 g of molten sample and mix well. 
 2. Add few drops of phenolphthalein to 10 ml of the above sample and mix well. 
 3. Titrate with 0.1 N KOH till end point is reached (the solution turns faint pink and persists for ≥ 10 s). Perform a blank titration with solvent alone.
-Calculation: Acid value = (56.1 x Z x N) / P Where, Z= ml alcoholic KOH, N= normality of alcoholic KOH and P= weight of the sample in g. 
+
+**Calculation:** Acid value = (56.1 x Z x N) / P Where, Z= ml alcoholic KOH, N= normality of alcoholic KOH and P= weight of the sample in g. 
 
 **Note:**
 1. Perform titration with fat/oil solvent alone (blank). Subtract the titer value from previous titer value.
@@ -535,11 +556,15 @@ Calculation: Acid value = (56.1 x Z x N) / P Where, Z= ml alcoholic KOH, N= norm
 The peroxide value is defined as the amount of peroxide oxygen per kilogram of fat or oil.
 
 **Principle:** Oxidative rancidity of unsaturated fats or oils is primarily due to autoxidation by free radical reaction involving oxygen and generation of peroxide intermediates. The concentration of peroxide in an oil or fat is its peroxide value, and gives a fair indication of its age and extent of deterioration. The peroxide value is defined as the amount of peroxide oxygen per one kilogram of fat or oil. It is expressed either in milliequivalents of peroxide/kg or millimoles of peroxide. The peroxide value is determined by estimating the iodine released from potassium iodine by peroxide, by titrating against sodium thiosulfate. The reaction scheme for hydroxyperoxides in presence of acetic acid is as follows: 
+
 Generation of iodine:
 ![perox](peroxide1.png)
+
 The peroxides formed in fat or oil react with iodide to release iodine. The base (OHproduced in this reaction is taken up by excess acetic acid present in the reaction mixture. 
+
 Titration step:
 ![pero](peroxide2.png)
+
 The iodine liberated in the previous step is titrated with sodium thiosulfate. The indicator used in this reaction is a starch solution where amylose forms a blue to black solution with iodine and is colorless where iodine is titrated. 
 
 **Reagents:** (i) Acetic acid- chloroform solution (7.2 ml Acetic acid and 4.8 ml chloroform) (ii) Saturated potassium iodide solution. Store in dark (iii) Sodium thiosulfate 0.1 N (iv) 1% starch solution. 
@@ -564,6 +589,7 @@ Saponification value is defined as the number of milligrams of potassium hydroxi
 
 **Principle:** In the presence of alkali fats are hydrolyzed resulting in formation of salts of fatty acids (also called soap) and glycerol. The process is known as saponification. As most of the fat/oil are triacylglycerol (three fatty acids ester linked to glycerol), a comparison of the fatty acid chain length can be done by this method. On hydrolysis, per unit mass of fat/oil containing long chain fatty acids will yield relatively fewer numbers of carboxylic functional groups as compared to short chain fatty acids.
 If more milligrams of base are required to neutralize N grams of fat then there are more milligrams of the fat/oil and the chain lengths are relatively small. Saponification value is defined as the number of milligrams of potassium hydroxide required to neutralize the fatty acids resulting from the complete hydrolysis of 1 g fat or oil under the conditions specified.
+
 ![saponi](saponification.png)
 
 **Reagents:** 
@@ -572,7 +598,10 @@ If more milligrams of base are required to neutralize N grams of fat then there 
 
 **Calculation:** Calculate the saponification value by the formula:
 Saponification value (mg KOH/ g) = (Z ml x 28.05)/ Wt. of fat
-Where, Z is difference between blank and sample titer value. Note: 1. The multiplication factor of 28.05 in the above equation is included since 1 ml of 0.5 N KOH contains 28.05 mg of KOH.
+Where, Z is difference between blank and sample titer value. 
+
+**Note:**
+1. The multiplication factor of 28.05 in the above equation is included since 1 ml of 0.5 N KOH contains 28.05 mg of KOH.
 2. The calculated molar mass is not applicable to fats and oils containing high amounts of unsaponifiable material, free fatty acids (>0.1%), or mono- and diacylglycerols (>0.1%).
 3. Since butter has a large proportion of lower fatty acids it has a high saponification value. Coconut oil also has a comparatively higher saponification value.
 4. Saponification value may be used to determine the approximate molecular weight of fat/oil. Number of moles = mass of oil/relative atomic mass.
@@ -583,14 +612,17 @@ Where, Z is difference between blank and sample titer value. Note: 1. The multip
 Iodine number is used to determine the amount of unsaturation in fats and oils.
 
 **Principle:** Iodine is added across the double bonds of unsaturated oils by electrophillic addition reaction to form saturated halo-products. The extent of halogenation is a measure of the degree of unsaturation in oils. Iodine number is defined as grams of iodine absorbed by 100 g of fat. The reagent used in this test is iodine monochloride, which reacts with the unsaturated fatty acids. Further potassium iodide is used to convert the unreacted iodine monochloride to free iodine (I2). The liberated iodine is titrated against sodium thiosulfate.
+
 ![iodi](iodine_value.png)
+
 In general, greater the degree of unsaturation the greater is probability of the oil or fat to become rancid by oxidation. The iodine value is a measure of the degree of unsaturation of a fat or oil and thus allows its classification into non-drying, drying and semi-drying oils (though complete information on their drying property is not obtained). Oils having high iodine value such as linseed oil dry up quickly and are called drying oils while coconut oil is non-drying oil. 
 Determination of iodine value of an oil or fat can help in detection of adulteration. The iodine values of a few oils are: Coconut oil: 8.4; Olive oil: 79-83; Cottonseed oil: 103-111; Lineseed oil: 175-202. Reagents: Iodine monochloride reagent: In a 500 ml volumetric flask containing 100 ml glacial acetic acid add 5 ml of iodine monochloride and make up the volume to 500 ml with acetic acid. 10% w/v potassium iodide (prepare fresh). 0.1 N sodium thiosulfate (prepare fresh). 1% w/v starch indicator solution: dissolve 1 g starch in 40 ml water (heat gently to dissolve) and make up the volume to 100 ml. 2% w/v fat sample in chloroform. 
 
 **Procedure:**
 1. Pipette out 10 ml of the fat sample into an iodine flask (250 ml). Add 20 ml of iodine monochloride reagent. Stopper the flask and shake the contents. Leave the flask in dark at for 30 min. In a separate flask setup reagent blank without fat sample.
 2. Add 10 ml of potassium iodide solution to the flask and mix. Rinse the stopper using 40 ml distilled water. The contents of the flask are titrated against 0.1 N sodium thiosulfate solution taken in a burette until a pale straw color is observed. Add 1-2 ml of starch indicator. Addition of the indicator results in blue coloration. Continue the titration until the solution turns colorless. Note the titer value both for fat sample and blank.
-Calculation: Iodine number of fat = (Z ml x 12.7) / (weight of fat sample in g x 100)
+
+**Calculation:** Iodine number of fat = (Z ml x 12.7) / (weight of fat sample in g x 100)
 Where, Z is difference between blank and sample titer value. Note: Shake the flask thoroughly throughout the titration to ensure that all the iodine is expelled from the chloroform layer. Each ml of sodium thiosuphate (0.1 N) is equivalent to 12.7 mg of iodine.
 
 
@@ -598,12 +630,12 @@ Where, Z is difference between blank and sample titer value. Note: Shake the fla
 Libermann-Burchard method is used for estimating serum cholesterol of the given sample.
 
 **Principle:** The test is based on the fact that the sterols with unsaturation in ring A or B react with concentrated sulfuric acid in the presence of acetic anhydride and undergo dehydration (at C3), oxidation (to form 3,5-cholestadiene) and isomerisation reactions to yield a polymer containing a green color chromophore (λmax 640 nm).
+
 ![liber](liberman.png)
 
-**Reagents:** (i) 1:1 ethanol-acetone mixture (ii) 250 µg/ml cholesterol stock solution in chloroform (iii) Acetic anhydride- H2SO4 reagent: Add 2 ml conc. H2 SO4 to 60 ml acetic anhydride in a beaker on ice. Gently mix the keeping the mixture chilled. Prepare fresh. If blue tinge appears, discard the reagent and prepare again. 
+**Reagents:** (i) 1:1 ethanol-acetone mixture (ii) 250 µg/ml cholesterol stock solution in chloroform (iii) Acetic anhydride- H2SO4 reagent: Add 2 ml conc. H2SO4 to 60 ml acetic anhydride in a beaker on ice. Gently mix the keeping the mixture chilled. Prepare fresh. If blue tinge appears, discard the reagent and prepare again. 
 
 **Procedure:**
-
 1. Add 0.2 ml of blood/serum to 10 ml ethanol-acetone solvent in a centrifuge tube. Mix well.
 2. Keep the tube in boiling water bath with gentle agitation until the solvent begins to boil. Shake the tube for 5 min (proteins precipitate)
 3. Cool to room temperature. Centrifuge for 5 min, collect supernatant in a fresh test tube and evaporate the solvent in a boiling water bath.
@@ -626,7 +658,9 @@ The diphenylamine method is used to estimate concentration of DNA in a given sam
 **Reagents:** (i) Diphenylamine reagent (prepare fresh): Dissolve 1 g diphenlyamine in 100 ml glacial acetic acid then add 2.5 ml conc. H2SO4. Protect the reagent from light. (ii) 100µg/ml calf thymus DNA dissolved in distilled water. 
 
 **Procedure:** Setup and process the blank, sample and standards as indicated in the table below.
+
 ![dnp](dephenylamine2.png)
+
 From the standard curve determine the concentration of DNA in unknown sample. 
 
 **Note:**
@@ -638,6 +672,7 @@ From the standard curve determine the concentration of DNA in unknown sample.
 Fiske Subbarow method is used for quantitative determination of inorganic phosphate.
 
 **Principle:** The assay is based on the fact that phosphorous, under acidic conditions, reacts with ammonium molybdate to form phosphomolybdic acid, which in turn is reduced by 1amino-2-napthol-4-sulfonic acid to quantitatively yield molybdenum blue complex (λmax at 660 nm) the intensity of which is proportional to the phosphate present. Phosphorous acts as a quantitative catalyst during this reaction. 
+
 ![fisk](fiskie.png)
 
 **Reagents:** 
@@ -648,6 +683,7 @@ Fiske Subbarow method is used for quantitative determination of inorganic phosph
 (v) Amino naptholsulphonic acid (ANSA) reagent: the powdered reagent is prepared by mixing 0.2 g of 1-amino-2napthol-4-sulphonic acid, 1.2 g of sodium bisulfite and 1.2 g of sodium sulfite. This mixture is ground to a fine powder using a porcelin mortar and pestle. Weigh 0.25 g of this powder and dissolve in 10 ml of distilled water (this solution should be prepared fresh). 
 
 **Procedure:** Setup and process the samples, blank and standards, as indicated in the observation table. Compute the concentration of the phosphorous in the sample from the calibration curve.
+
 ![fisk](fiskie2.png)
 
 
@@ -656,12 +692,15 @@ Bial’s test is used for detection of pentoses and pentosans (polymer of pentos
 
 **Principle:** The assay is based on the fact that under acidic conditions 
 pentosans are hydrolyzed to pentoses. Further, pentoses (like the ribose sugar moiety of RNA) are dehydrated to yield furfural, which in turn condense with orcinol to form a green colored complex (λmax 665 nm), whose intensity is proportional to the concentration of pentose sugar present. The intensity of color developed also depends on the concentration of HCl, ferric chloride, orcinol and duration of boiling. Usually purine nucleotides are more responsive than pyrimidine nucleotides to this test.
+
 ![bials](bials.png)
 
 **Reagents:** (i) Orcinol reagent: dissolve 300 mg orcinol in 5 ml ethanol and add 3.5 ml of this just before use to 100 ml of a 0.1% solution of FeCl3.6H2O in conc. HCl. Store the reagent in brown colored bottle and use it within couple of hours. (ii) 300 µg/ml RNA stock solution in Tris-EDTA buffer (10 mM Tris-acetate and 1 mM EDTA, pH 7.2). 
 
 **Procedure:** Setup and process the blank, standards and samples as indicated in the table below.
+
 ![bial](bials2.png)
+
 Compute the concentration of RNA in the sample from the calibration curve. 
 
 **Note:**
@@ -686,13 +725,16 @@ Biuret assay is used for quantification of proteins already in solution or easil
 
 **Principle:** The Biuret reagent contains sodium hydroxide, copper (II) sulfate and potassium sodium tartarate. Under alkaline conditions of the biuret reaction (pH 14), deprotonation of the amide nitrogen occurs which leads to high electron density at the nitrogen atom. Further, copper (II) ion complexes with four peptide nitrogens to yield a tetradentate violet colored coordination complex (λmax 565 nm). Since peptide bonds occur with the same frequency per amino acid in proteins, biuret test can be used to assess the concentration of proteins. At high pH Cu2+ binding with OHion leads to an insoluble precipitate, this is minimized by addition of potassium sodium tartarate, which stabilize the cupric ions. 
 
-**Reagents:** Biuret reagent: Dissolve 0.3 g CuSO4 and 0.9 g sodium potassium tartarate in 50 ml of 0.2 N NaOH solution. Add 0.5 g of KI and make up the volume to 100 ml using 0.2 N NaOH. BSA stock solution: 20 mg/ml BSA 
+**Reagents:** Biuret reagent: Dissolve 0.3 g CuSO4 and 0.9 g sodium potassium tartarate in 50 ml of 0.2 N NaOH solution. Add 0.5 g of KI and make up the volume to 100 ml using 0.2 N NaOH. BSA stock solution: 20 mg/ml BSA.
+
 ![biur](biuret.png)
 
 **Procedure:**
 
 1. Setup and process the blank, standards and samples as indicated in the table below.
+
 ![biu](biuret2.png)
+
 Compute the concentration of protein in test sample from the calibration curve. 
 
 **Note:**
@@ -700,6 +742,7 @@ Compute the concentration of protein in test sample from the calibration curve.
 2. The color developed in this assay is stable but it is recommended to take the readings of the samples within 10 min of each other.
 3. Biuret assay is influenced by very few interfering agents like ammonium salts. 
 4. Biuret ((H2N-CO-)2NH) is not a reagent in this test but the test is so named because the reaction was first observed with peptide-like bonds in the biuret molecule. A more accurate name is the alkaline copper reagent (ACR) test.
+
 ![biu](biuret3.png)
 
 
@@ -711,7 +754,9 @@ The Folin-Lowry’s method is used for quantification of proteins already in sol
 **Procedure:**
 
 1. Setup and process the blank, standards and samples as indicated in the table below.
+
 ![folin](folin.png)
+
 Compute the concentration of protein in test sample from the calibration curve. Note: 1. The method is sensitive down to about 10 µg/ml and is probably the most widely used protein assay despite its being only a relative method, subject to interference from Tris buffer, EDTA, nonionic and cationic detergents, carbohydrate, lipids and some salts. The incubation time is very critical for a reproducible assay. The reaction is also dependent on pH and a working range of pH 9 to 10.5 is essential.
 2. Thus the intensity of color depends on the amount of these aromatic amino acids present and will thus vary for different proteins. Most proteins estimation techniques use Bovin Serum Albumin (BSA) universally as a standard protein, because of its low cost, high purity and ready availability.
 
@@ -721,13 +766,17 @@ The Bradford protein assay is used to determine the concentration of protein in 
 solution.
 
 **Principle:** This assay is based on the fact that proportional binding of Coomassie Brilliant Blue G-250 dye to proteins under acidic conditions leads to absorbance shift of the dye from doubly protonated red cationic form (λmax 470 nm) to a stable unprotonated blue protein-dye form (λmax 595 nm). Within the linear range of the assay (~5-25 µg/ml), increase in absorption at 595 nm is proportional to the amount of bound dye, and thus to the concentration of protein present in the sample. Coomassie Brilliant Blue G-250 dye binds mostly to basic amino acids (primarily arginine in an approximately proportional manner). The assay is therefore dependent on the amino acid composition of the specific protein. 
+
 ![brad](bradford.png)
+
 **Reagents:** (i) Bradford reagent: Dissolve 20 mg of Comassie Brilliant Blue G-250 in 10 ml of ethanol. Add 20 ml of 85% phosphoric acid and makeup the volume to 200 ml with water. (ii) 200 ml of 0.1 M phosphate buffer pH 7.5 3. (iii) BSA stock solution: Dissolve 20 mg of BSA in 100 ml of 0.1 M phosphate buffer of pH 7.5 
 
 **Procedure:** 
 
 1. Setup and process the blank, standards and samples as indicated in the table below.
+
 ![brad](bradford2.png)
+
 Compute the concentration of protein in test sample from the calibration curve. 
 
 **Note:**
@@ -739,8 +788,7 @@ Compute the concentration of protein in test sample from the calibration curve.
 ### Microkjeldal Method
 The Kjeldahl method is used to determine the crude protein content of a sample by estimating the sample’s nitrogen content.
 
-**Principle:** The Kjeldahl method occurs in three main steps: 1) Digestion: It involves boiling a homogenous organic sample in concentrated sulphuric acid so that the nitrogen present in the organic sample is reduced to ammonium sulfate. This chemical decomposition of the sample is complete when the reaction mixture turns clear and colorless from the initially dark-color. Potassium sulphate is added to increase the boiling point of the reaction mixture by about 50°C. Titanium dioxide is often added as a specific catalyst to accelerate the decomposition. 2) Distillation: It involves addition of excess base to the acid digestion mixture, which converts NH4+
-to NH3. The reaction mixture is distilled and the NH3 gas dissolved in a receiving solution of boric acid. 3) Titration: It involves quantification of the amount of ammonia ions in the receiving solution by titration with acid. The amount of nitrogen in a sample can be calculated from this value. 
+**Principle:** The Kjeldahl method occurs in three main steps: 1) Digestion: It involves boiling a homogenous organic sample in concentrated sulphuric acid so that the nitrogen present in the organic sample is reduced to ammonium sulfate. This chemical decomposition of the sample is complete when the reaction mixture turns clear and colorless from the initially dark-color. Potassium sulphate is added to increase the boiling point of the reaction mixture by about 50°C. Titanium dioxide is often added as a specific catalyst to accelerate the decomposition. 2) Distillation: It involves addition of excess base to the acid digestion mixture, which converts NH4+ to NH3. The reaction mixture is distilled and the NH3 gas dissolved in a receiving solution of boric acid. 3) Titration: It involves quantification of the amount of ammonia ions in the receiving solution by titration with acid. The amount of nitrogen in a sample can be calculated from this value. 
 
 **Reagents:** (i) 0.1 N anhydrous Na2CO3 (ii) 0.1 N H2SO4: Dilute 2.8 ml conc. H2 SO4 in 1 liter water) (iii) 10ml of 1% methyl orange solution (iv) 50 ml Tashiro’s mixture: Dissolve 10 g boric acid in 480 ml hot water, cool and add 2 ml of 0.1% alcoholic solution of bromocresol green and 4 ml of 0.1% methyl red solution. Make up to 500 ml with water. 
 
@@ -753,12 +801,14 @@ Standardization of H2SO4
 4. Cool the flask and adjust the volume by using water, to 50 ml shake and transfer the contents to a distillation jacket containing 10 ml of 40% NaOH and steam distill this alkali-treated digest in an airtight apparatus, whose delivery tube is dipped in to a recessive flask containing 5 ml Tashiro mixture. Distill till the level of the solution in the receiving flask becomes double, which usually takes 15-25 min.
 5. Titrate the solution against standardized N/70 H2SO4, whose exact normality has been predetermined till the color changes from green to purple.
 6. Calculate the nitrogen content. To obtain the crude protein content of the foodstuff, simply multiply the nitrogen value by 6.25.
-Note: Kjeldahl method is not applicable to compounds containing nitrogen in nitro and azo groups and nitrogen present in rings (e.g. pyridine) as nitrogen of these compounds does not convert to ammonium sulfate under the conditions of this method.
+
+**Note:** Kjeldahl method is not applicable to compounds containing nitrogen in nitro and azo groups and nitrogen present in rings (e.g. pyridine) as nitrogen of these compounds does not convert to ammonium sulfate under the conditions of this method.
 
 
 ### Isoelectric Point (pI)
 
 **Principle:** The isoelectric point (pI) protein is the pH at which a protein is ionized equally as an acid and as a base, so the protein carries no net electrical charge. At its pI the protein does not migrate in an electrical field. The pI of a protein is a constant and is independent of the concentration of the protein. The side chain groups of amino acids in the protein contribute to the ionization of proteins. At a pH below their pI, proteins have a net positive charge and will move towards the cathode (positive electrode) whereas at a pH above its pI the proteins show a net negative charge and move toward the anode (negative electrode).
+
 ![iso](isoelectric.png)
 
 **Reagents:** (i) 0.01 N acetic acid (ii) 0.1 N acetic acid (iii) 1% casein in 0.1 N sodium acetate.
@@ -768,6 +818,7 @@ Note: Kjeldahl method is not applicable to compounds containing nitrogen in nitr
 1. Setup the tubes as indicated in the observation table. 
 2. Add 1 ml of casein solution to each tube. Mix well (avoid frothing). 
 3. Let the tubes stand undisturbed and observe for appearance of turbidity and precipitate at 5-10 min interval for half an hour.
+
 ![iso](isoelectric2.png)
 
 **Note:** The isoelectric point of casein is 4.74. At this pH maximum terbidity or precipiate may be observed.
@@ -779,6 +830,7 @@ Note: Kjeldahl method is not applicable to compounds containing nitrogen in nitr
 ## Alkaline Phosphatase assay
 
 **Principle:** The estimation of alkaline phosphatase or orthophosphoric monoester phosphohydrolase (EC 3.1.3.1) level of blood serum is of clinical importance. This enzyme levels are elevated in bone, liver, kidney and other tissues in diseased condition. Alkaline phosphate has a role in transport of phosphate groups across the cell membrane. The pH optimum for serum alkaline phosphatase is between pH 8 and 10. The alkaline phosphatase activity is measured by incubating serum, the enzyme source, with the substrate, pnitrophenyl phosphate dissolved in an alkaline buffer at a specific temperature for a certain time. The alkaline phosphatase hydrolyses p-nitrophenyl phosphate to release yellow colored p-nitrophenol with λmax at 405 nm, the concentration of which is determined by plotting a standard curve for p-nitrophenol (0-50 µg/ml). The enzyme activity units are expressed as micromoles of p-nitrophenol released per milliliter per minute at specific assay conditions.
+
 ![alp](alp.png)
 
 **Materials:** (i) Enzyme source: collect 5 ml blood in a centrifuge tube and allow it to clot. Centrifuge the sample at 10,000 rpm for 10 min at 4°C to collect the serum (ii) Inactivated enzyme (negative control): autoclaved serum (iii) Assay buffer: 0.1 M bicarbonate buffer of pH 10 (iv) Substrate: 1 mM solution of p-nitrophenyl phosphate in bicarbonate buffer of pH 10.
@@ -786,19 +838,26 @@ Note: Kjeldahl method is not applicable to compounds containing nitrogen in nitr
 **Procedure:**
 
 1. Setup the enzyme assay as indicated in the observation table.
+
 ![alp](alp2.png)
+
 2. Measure the micromoles of p-nitrophenol released at 410 nm in a spectrophotometer. Calculate the enzyme activity in terms of the number of micromoles of p-nitrophenol released per milliliter of the reaction mixture per minute under defined assay conditions using following formula:
+
 ![alp](alp3.png)
 
 
 ## Acid phosphatase assay
 
 **Principle:** Acid phosphatases or orthophosphoric monoester phosphohydrolase (EC 3.1.3.2) hydrolyses aliphatic, aromatic or heterocyclic phosphoric acid. The pH optimum for alkaline phosphatses is between pH 4 and 6. RBC, platelets, WBC and prostrate cells secrete this class of non-specific enzymes. The acid phosphatase activity is measured by incubating the enzyme source, potato, with substrate, p-nitrophenyl phosphate dissolved in an acid buffer at a specific temperature for a certain time. The acid phosphatase hydrolyzes p-nitrophenyl phosphate to release colorless p-nitrophenol. The enzyme is inactivated and thus the reaction stopped by addition of alkali to the reaction mixture. At alkaline pH the released p-nitrophenol turns yellow in color (λmax 405 nm), the concentration of which is determined by plotting a standard curve for p-nitrophenol (0-50 µg/ml). The enzyme activity units are expressed as micromoles of p-nitrophenol released per milliliter per minute at specific assay conditions.
+
 ![acp](acp.png)
 
 **Materials:** (i) Enzyme source: Homogenize 20 g peeled and finely cut potato (Solanum tuberosum) in a blender with 80 ml cold water for 5 min. Centrifuge the homogenate at 5000 rpm for 15 min (preferably cold). Transfer clear supernatant to a fresh tube (ii) Inactivated enzyme (negative control): autoclave 1 ml of enzyme extract (iii) Assay buffer: citrate buffer 100 mM, pH 4.8 (iv) Substrate: 15 mM p-nitrophenyl phosphate dissolved in citrate buffer. 0.2 N sodium hydroxide. Procedure: Setup the enzyme assay as indicated in the observation table.
+
 ![acp](acp2.png)
+
 Use the following equation to calculate the enzyme activity in U/ml.
+
 ![acp](acp3.png)
 
 **Note:**
@@ -815,16 +874,22 @@ Use the following equation to calculate the enzyme activity in U/ml.
 **Procedure:** 
 
 Prepare a standard graph of maltose as follows:
+
 ![amy](amylase.png)
+
 Setup the enzyme assay as indicated in the observation table.
+
 ![amy](amylase2.png)
+
 Amylase activity is expressed in terms of mg maltose liberated in 3 min at 37°C by 1 ml of enzyme extract. Specific activity of the enzyme is expressed as amylase activity/mg of protein.
 
 
 ## Urease assay
 
 **Principle:** Urease or urea amidohydrolase (EC 3.5.1.5) is an important enzyme in protein metabolism, that catalyses the degradation of urea into ammonia and carbon dioxide.
+
 ![ure](urease.png)
+
 The amount of ammonia formed is directly proportional to the amount of urease present in the assay. Therefore, the activity of urease can be determined by measuring the amount of ammonia liberated in the reaction. The reagent used for estimating ammonia contains hypochlorite, phenol and nitroprusside, which under alkaline conditions react with ammonium ions to forma blue colored indophenol anion (λmax 630 nm) by Berthelot reaction. Sodium nitroprusside acts as a catalyst for reaction. 
 
 **Materials:**
@@ -833,9 +898,13 @@ The amount of ammonia formed is directly proportional to the amount of urease pr
 **Procedure:** 
 
 1. Prepare a standard graph of maltose as follows:
+
 ![ure](urease2.png)
+
 2. Setup the enzyme assay as indicated in the table below.
+
 ![ure](urease3.png)
+
 Construct a standard curve for ammonia (X-axis: ammonia concentration in µmoles, Yaxis: absorbance at 630 nm). Calculate the ammonia liberated by the enzyme reaction from the calibration plot after deducting the blank value from the test. Urease enzyme unit is denoted by µmoles of ammonia released per minute per ml of enzyme extract under defined conditions.
 
 
@@ -879,7 +948,9 @@ cm-1 . using a spectrophotometer. Molar absorption coefficient values of a biomo
 **Reagents:** 0.5 mM L-tyrosine in 0.1 N NaOH. Procedure: Set the UV-Vis spectrophotometer in absorbance mode and set the absorbance at wavelength 293.5 nm to zero using the blank (0.1 NaOH). Record the absorbance of the tyrosine solution at 293.5 nm. 
 
 **Calculation:** Calculate the molar absorption coefficient of L-tyrosine by substituting the experimental value of absorbance in the following equation-
+
 ![mol](molar.png)
+
 (Recorded at λ293.5 nm)/ (5 X 10-4 M) (1 cm)
 
 
@@ -887,6 +958,7 @@ cm-1 . using a spectrophotometer. Molar absorption coefficient values of a biomo
 Ammonium sulfate precipitation method is widely used for purification of protein from a crude extract.
 
 **Principle:** Ammonium sulfate is an iorganic salt that is used to precipitate proteins from solution, a process that is called salting out. Solubility of a protein depends on the proportion and distribution of polar hydrophilic groups and nonpolar hydrophobic groups in the molecule. The polar water molecules interact with the polar groups of proteins tending to increase solubility. The added ammonium sulfate reduceds the effective concentration of water available for the protein thereby leading to increased proteinprotein interactions followed by aggregation or precipitation of the protein. Generally, an inverse relationship is observed between amount of salt required for precipitation and the molecular weight of the protein. Proteins, which hold on to water at higher concentrations of salt, can be separated from one, which are precipated under the same condition.
+
 ![amm](salting.png)
 
 **Reagents:** (i) Saturated ammonium sulfate solution (ii) Solid ammonium sulfate (iii) Hen egg.
@@ -906,6 +978,7 @@ The net movement of molecules from a region of high concentration to a lower con
 
 **Principle:** The pore size of the dialysis membrane restricts large molecules to 
 freely diffuse across the membrane. The small molecules freely diffuse across the membrane till equilibrium is reached between the sample (inside the dialysis tube) and buffer solution. Dialysis is often used in the laboratory for desalting protein samples. During dialysis small molecules equilibrate across the semi-permeable membrane (freely move in both direction, in and out across the membrane); hence dialysis in certain cases is used to introduce small molecules to the sample.
+
 ![dia](dialysis.png)
 
 **Materials:** (i) 10 mg/ml BSA and 50 mg/ml ammonium sulfate (ii) 5% w/v barium chloride solution (iii) Dialysis tubing (molecular weight cut off 12 kDa) (iv) Plastic clamps (v) Magnetic stirrer and magnetic beads. 
@@ -925,7 +998,9 @@ freely diffuse across the membrane. The small molecules freely diffuse across th
 Paper chromatography is particularly useful in separating mixture of compounds having similar polarity.
 
 **Principle:** Paper chromatography is widely used technique for isolation, identification and quantitative determination of biomoleules such as sugars, amino acids and nucleic acids in a sample. It is a type of partition chromatography. The analytes are distributed between two phases, a stationary phase (usually water held in the fibers of paper) and the mobile phase (developing solvent or moving liquid). The analytes are separated due to differential affinity towards the mobile and stationary phase. Usually the analyte with higher solubility in the mobile phase solvent will migrate rapidly than the less soluble components.
+
 ![pap](paper.png)
+
 The results of a developed paper chromatogram are represented by Rf value of the value (abbreviation for retention factor, retardation factor, retardation force or relative front) depends on various conditions such as temperature, distance travelled by the solvent/analytes, concentration of the analytes, mobile phase solvent composition, quality of the paper and others. The Rf values of adjacent spots of analytes in a paper chromatogram should differ by a minimum of 0.05. 
 
 **Materials:** (i) Chromatographic chamber (ii) Whatmann No.1 paper (iii) 10 µl Capillary tubes (iv)Hot air dryer (v) atomizer (vi) gloves (v) Developing solvent- n-butanol: acetic acid: water (3:1:1). Mix 60 ml butanol, 20 ml and 20 ml water (vi) Spray reagent- Add 1 ml acetic acid to 200 mg of ninhydrin in 99 ml of acetone (vii) Standard amino acids- 2 mg/ml solution each of glycine, alanine and proline. 
@@ -963,7 +1038,7 @@ The results of a developed paper chromatogram are represented by Rf value of the
 1. Draw a pencil line at least 5 cm away from the narrow end (this is the origin line) of Whatmann No. 1 filter paper (cut according to size of your chromatography chamber, which could be a glass beaker). Label the spots where samples will be loaded. Load the standard and unknown sugar samples with the help of a capillary tube (10 µl), such that the diameter of the sample spot does not exceed 3-4 mm. Dry the spots using a hair dryer.
 2. Place the spotted paper in a chromatographic chamber containing the developing solvent (if the size of the chromatography chamber is big, you need to pre-saturate the chamber with the developing solvent). The origin line should be 2 cm above the solvent level.
 3. When the solvent front is about to approach the top end, remove the chromatogram from the chamber and immediately mark the solvent front using a pencil. Air-dry the chromatogram at room temperature.
-6. The separated bases on the chromatogram are visualized as fluorescent spots under a UV lamp (shortwave 260-300 nm) or UV cabinet. Outline the spots with a pencil. Measure the distance in centimeters from the origin to the center of the outlined spot and calculate the Rf value for the amino acids.
+4. The separated bases on the chromatogram are visualized as fluorescent spots under a UV lamp (shortwave 260-300 nm) or UV cabinet. Outline the spots with a pencil. Measure the distance in centimeters from the origin to the center of the outlined spot and calculate the Rf value for the amino acids.
 Rf = distance moved by the amino acid (cm) / distance moved by the mobile phase (cm) 4. Compare the Rf values of unknown with that of the standard purines and pyrimidines to identify the unknown bases.
 
 
@@ -976,6 +1051,7 @@ Determination of the N-terminal amino acid by Sanger’s method is used to arran
 3. Extraction of the N-terminal DNP-amino acid with peroxide-free ether. 
 (Note: This is critical step since FDNB also reacts with ε-amino, thiol, imidazole and phenolic groups at neutral and acidic pH to yield other DNP-derivatives (DNP-arginine, O-DNP-tyrosine, ε-DNP-lysine, and imidazole-DNP-histidine). These derivatives are more polar and are partitioned to the aqueous phase, whereas N-terminal DNP-amino acid is extracted into the ether phase.)
 4. Identification of N-terminal DNP-amino acid by chromatography and comparison with reference standards.
+
 ![sang](sanger.png)
 
 **Materials:** (i) Hot air oven (ii) Shaker (iii) Water bath (iv) Centrifuge (v) Pre-coated silica gel G (vi) Glass hydrolysis vial (vii) TLC developing tank with lid (viii) FDNB (5% w/v) in ethanol, sodium bicarbonate solution (0.4% w/v) (ix) Solvent system- benzyl alcohol: ethanol (9:1) (x) Peroxide free ether (xi) Sodium bicarbonate (xii) Conc. HCl and 6 M HCl (xiii) acetone (xiv) Pure protein, whose N-terminal amino acid is to be detected (xv) standard DNP derivative of various amino acids (xvi) 5% solution of 1-fluoro-2,4dinitrobenzene (FDNB) in alcohol. 
@@ -996,6 +1072,7 @@ Determination of the N-terminal amino acid by Sanger’s method is used to arran
 A carboxypeptidase (EC number 3.4.16-18) is an exopeptidase that hydrolyzes the Cterminal peptide bond, resulting in the removal of L-amino acid, one residue at a time, from the C-terminal of the polypeptide chain.
 
 **Principle:** Carboxypeptidase A sequentially removes C-terminal acidic or neutral amino acids whereas carboxypeptidase B have a strong preference for positively charged amino acids (arginine and lysine). Neither peptidase functions if proline is the penultimate or Cterminal amino acid. Tripeptides and dipeptides may be resistant to hydrolysis. Carboxypeptidase Y is the enzyme of choice nowadays because it has broad specificity and ability to work in the presence of detergents and urea. In this enzyme-based detection method, the protein sample is incubated with carboxypeptidase A and aliquots removed form the reaction mixture at timed intervals and released free amino acids analyzed using paper chromatography. The released amino acids are visualized by using ninhydrin reagent. The released amino acids may be identified by comparing their Rf values with those of reference standards.
+
 ![car](carboxy.png)
 
 **Materials:** (i) Carboxypeptidase A (ii) Water bath (iii) Whatmann No. 1 paper (iv) 10% trichloroacetic acid (TCA) (v) Chromatographic chamber (vi) 10 µl capillary tubes (v) Hot air dryer (vi) atomizer (vii) gloves (viii) Developing solvent- n-butanol: acetic acid: water (3:1:1). Mix 60 ml butanol, 20 ml and 20 ml water (ix) Spray reagent- Add 1 ml acetic acid to 200 mg of ninhydrin in 99 ml of acetone (x) Standard amino acids- 2 mg/ml solution. 
@@ -1045,6 +1122,7 @@ Also the resolved components may also be isolated from the plate by scratching t
 6. The different color pigments can be observed separating from each other as the solvent moves up the TLC plate. Run the chromatogram until the solvent front reaches one centimeter from the top edge of the plate.
 7. Remove the TLC plate from the chamber and immediately mark the solvent front using a pencil. Quickly measure the pigment distances.
 The reference Rf values of various plant pigments are indicated in the table.
+
 ![pig](pigments.png)
 
 **Note:** Some pigments particularly β-carotene fade due to bleaching in the presence of light.
@@ -1063,7 +1141,9 @@ Ion exchange chromatography is used to separate polar and ionic molecules based 
 3. Filter the resin using a glass funnel plugged with glass wool and collect the filtrate in a 150 ml conical flask. Rinse the beaker twice and the resin once with 5 ml each of distilled water and collect the filtrate in the conical flask.
 4. Add 2-3 drops of phenolphthalein indicator to the filtrate in the conical flask and titrate the contents against standardized 0.1 N NaOH (in a glass burette) until a pale pink color appears. Note the volume of NaOH consumed. Perform a titration with 20 ml of 1 M sodium chloride solution and note the blank titer value.
 Calculations: The exchange capacity of resin is expressed in terms of milliequivlents (mEq) per gram of resin. Actual titter value (X) = titer value of resin (ml) – blank titer value (ml)
+
 ![ion](exchange.png)
+
 One ml of 0.1 NaOH is equivalent to 4 mg by weight. One milliequivalent (mEq) of NaOH = 40 mg. 
 
 **Note:** 1. Chemically Dowex resin is sulfonated polystyrene cross-linked with divinyl benzene. 2. Dowex-50 is commercially available as H+ or Na+ form. The later form cannot be directly employed for exchange capacity determination. It has to be converted to the H+ form.
@@ -1073,6 +1153,7 @@ One ml of 0.1 NaOH is equivalent to 4 mg by weight. One milliequivalent (mEq) of
 Gel-filtration chromatography is used to resolve analytes by their molecular size.
 
 **Principle:** Gel-filtration chromatography (also called molecular-sieve chromatography) is a versatile and popular technique. It is a type of size-exclusion chromatography, where an aqueous solution is used to transport analytes through the column, resolving them by their physical property of molecular size. It is widely used in fractionation of proteins and other water-soluble polymers. The column is packed with inert particles (which form gel beads) of uniform pore size and acts as the stationary phase. A solution of the analytes of various molecular sizes is allowed to pass through the column under the influence of a mobile phase (continuous solvent flow). Analytes with molecular size larger than the pore size cannot enter inside the gel beads and hence elute rapidly in a single zone. On the other hand, small molecular size analytes capable of diffusing in and out of the gel beads are retained for a longer time in the column bed. Analytes of intermediate size migrate at a rate between those of the large and small molecules. Hence, the order of elution of the analytes is directly correlated to their molecular size.
+
 ![gel](gel.png)
 
 **Materials:** (i) 10 ml plastic disposable syringe (ii) Sephadex G-10 (iii) Glass wool (iv) Screw clip (v) Silicone tube (vi) burette stand with clamp (vii) Sample: Add 2 mg each blue-dextran and potassium dichromate in 1 ml water and mix. Blue-dextran is a high molecular weight polysaccharide (~ 2000 kDa). 
@@ -1092,7 +1173,9 @@ Gel-filtration chromatography is used to resolve analytes by their molecular siz
 Agarose gel electrophoresis is used for resolving DNA/RNA molecules.
 
 **Principle:** Agarose gel electrophoresis is widely used for resolving DNA and RNA molecules. Agarose is extracted from seaweed and is a linear polymer of D-galactose and 3,6-anhydro-L-galactose. Agarose gels are prepared by boiling agarose in electrophoresis buffer and then cooling to 50°C and pouring into a mold. The porosity of agrose gel matrix decreases with an increase in agrose concentration. DNA is negatively charged at netural pH and migrates towards the anode under electric field. The mobility of DNA molecules depends on its molecular size and conformation as well as the agarose concentration. The rate of migration of DNA molecules in the gel is inversely proportional to the logarithm of their molecular weights. Generally the superhelical circular form has the greates mobility followed by the rod-like linear form. The extended circular form migrates more slowly. Nucleic acids can be visualized as an intense bright orange band on the gel by staining with an interchelating dye, ethidium bromide (EtBr). A band containing less than about 10 ng of DNA might not be visible after EtBr staining. Agarose gel has a low resolving power (the limit of resolution being generally around 750 kb) but has a broad range of separation (usually 1% agarose gel is used for DNA fragments 50 bp to 20 kb in size). Bromophenol Blue and xylene cyanol dyes are incorporated in the loading buffer and act as size markers (migrate at approximately 300 and 3000 bp respectively).
+
 ![ele](electro.png)
+
 The repeating unit consists of D-galactose (β1→4)-linked to 3,6-anhydro-L-galactose (in which an ether bridge connects C-3 and C-6). These units are joined by (α1→3) glycosidic links to form a polymer 600 to 700 residues long. A small fraction of the 3,6anhydrogalactose residues have a sulfate ester at C-2.
 
 **Materials:** (i) Horizontal electrophoresis apparatus with power pack (ii) 10-50 µl micropipettes (iii) UV transilluminator (iv) Gloves (v) Running buffer stock solution (10X) Tris-acetate (TAE): Dissolve 48.4 g Tris-base, 11.4 ml glacial acetic acid and 20 ml of 0.5 M EDTA, pH 8 in 1 liter water. Store at 4°C (vi) EtBr Stain: Dissolve 100 mg ethidium bromide in 10 ml of 1X TAE buffer (vii) 1% agarose in 1X TAE buffer: Boil the agarose slurry by till it turns transparent. Add 1 µl of ethidium bromide stain and mix (vii) Gel tracking dye (6X): Add 1 ml glycerol and 2 mg bromophenol blue in 9 ml water. (viii) Standard DNA markers: Commercially available DNA ladder. 
@@ -1103,12 +1186,14 @@ The repeating unit consists of D-galactose (β1→4)-linked to 3,6-anhydro-L-gal
 2. Transfer the gel tray along with the gel into the elctrophoresis tank (remember to remove the adhesive tape). Position the gel such that the loading wells lie towards the cathode.
 3. Fill the tank with appropriate volume of 1X TAE buffer. Load 10-20 µl of DNA samples (mixed with loading dye) and DNA marker in separating well.
 4. Run at 10-25 mAmp till the dye front reaches the other end of the gel. 5. Switch off the power supply and observe for DNA band/s in a UV transilluminator. 6. The approximate molecular weight of the sample DNA can be determined by comparing its migration with that of the bands of the DNA ladder.
+
 ![elec](agarose.png)
 
 
 ### Cellulose Acetate Paper Electrophoresis
 
 **Principle:** Cellulose acetate paper electrophoresis is a simple, rapid and reliable method widely used to detect common clinically important hemoglobin. This method is called hemoglobin electrophoresis. The hemoglobin variants (differing in their amino acid composition) are separated at distinctive rates due to difference in their surface charge. Under alkaline conditions (pH 8.4-8.6) hemoglobin molecules are negatively charged and thus migrate towards the anode (positive) during electrophoresis. Hemoglobin variants will not separate if the amino acid substitution does not result in a change in the overall charge on the protein or if the amino acid substitution is at a site buried in the three-dimensional structure of the protein. Under normal conditions, HbA, the adult hemoglobin, consists of two alpha and two beta chains, whereas HbF, the fetal hemoglobin, consists of two alpha and two gamma chains. This technique is sensitive enough to separate HbA from HbF and to detect Hb A2 variants.
+
 ![cell](cellulose.png)
 
 **Reagents:** (i) Electrophoresis buffer: Tris/EDTA/Borate (TEB) pH 8.4. Dissolve 10.3 g Tris, 0.6 g EDTA and 3.2 g boric acid in 1 L water. Store at 4°C (ii) Fixing and staining solution: Dissolve 5 g Ponceau S and 7.5 g trichloroacetic acid in 1 L water (iii) Destaining solution: 5% (v/v) acetic acid (iv) Haemolyzing reagent: Dissolve 0.5% (v/v) Triton X-100 in 100 mg/l potassium cyanide. 
